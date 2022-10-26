@@ -77,15 +77,11 @@ social:
 #- Visitors
 ---
 
-I develop statistical methodology to answer questions about health policy and precision health using complex longitudinal data. 
+I am a statistician who develops and applies statistical methodology to answer key questions in public health and medicine  through thoughtful study design and analysis combined with deep collaboration with applied scientists. My work is motivated by problems across a wide array of applications, including physical activity, oncology, and substance use and related policy, and spans the entire investigative process from formulating a research question through study design and data analysis. 
 
-My work is primarily related to causal inference with complex multilevel data. I have expertise in both experimental and non-experimental approaches to causal inference, especially with sequential multiple-assignment randomized trials and difference-in-differences. 
+My goal is to develop statistical methods that empower scientists to make impactful contributions in their fields. My methodological work involves building tools to address important statistical issues in a way that is accessible and understandable to applied researchers. My work is primarily related to causal inference -- the use of data to make causal conclusions through precise assumptions, strong study design, and estimation techniques -- with complex repeated-measures data. 
 
-My methodological research is motivated by the need for statistical tools to help investigators answer key questions in public health and medicine through thoughtful study design and analysis. My work spans the entire investigative process from formulating a research question through study design and data analysis and is built around deep collaboration with applied scientists. 
-
-Currently, I am a postdoctoral fellow in the Department of Health Policy and Management at the Johns Hopkins Bloomberg School of Public Health, working with [Elizabeth Stuart, Ph.D.](https://www.elizabethstuart.org/) and [Beth McGinty, Ph.D.](https://www.jhsph.edu/faculty/directory/profile/2908/emma-beth-mcginty) on causal inference for health policy evaluation.
-
-My Ph.D. was supervised by [Daniel Almirall, Ph.D.](http://www-personal.umich.edu/~dalmiral/)
+Currently, I am a postdoctoral fellow in the Department of Health Policy and Management at the Johns Hopkins Bloomberg School of Public Health, working with [Elizabeth Stuart, PhD](https://www.elizabethstuart.org/) and [Beth McGinty, PhD](https://www.jhsph.edu/faculty/directory/profile/2908/emma-beth-mcginty) on causal inference for health policy evaluation. My PhD was supervised by [Daniel Almirall, PhD](http://www-personal.umich.edu/~dalmiral/). 
 
 <!-- <a class="btn btn-outline-primary btn-lg" href="about">hi</a> -->
 <a class="btn btn-outline-primary btn-lg" href="about">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>

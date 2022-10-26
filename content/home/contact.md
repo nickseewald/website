@@ -24,6 +24,18 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
+
+  email: See my CV or use the form above
+  address:
+    street: 624 N Broadway Room 501
+    city: Baltimore
+    region: MD
+    postcode: "21205"
+    country: United States
+    country_code: 1
+  coordinates:
+    latitude: "39.298254943569425"
+    longitude: "-76.5945704311234"
   
 design:
   columns: '2'

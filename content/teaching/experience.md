@@ -25,20 +25,16 @@ date_format = "Jan 2006"
 #  location = "First term, AY 2022-2023"
 
 [[experience]]
-  title = "STATS 250: Introduction to Statistics and Data Analysis"
-  company = "University of Michigan"
+  title = "Seminar on Statistical Methods for Mental Health"
+  company = "Johns Hopkins Bloomberg School of Public Health"
   company_logo = "bsph"
-  location = "Spring 2018, AY 2019-20, AY 2020-21"
-  date_start = "2019-09-01"
-  date_end = "2021-04-24"
+  location = "First Term, AY 2022-2023"
+  date_start = "2022-09-01"
+  date_end = "2022-10-20"
   description = """
-  *Graduate Student Instructor*
+  *Primary instructor with [Trang Q. Nguyen](https://trang-q-nguyen.weebly.com/)*
 
-  Large, non-calculus-based, cross-disciplinary introductory statistics course. Taught 2-3 weekly lab sessions of 30 students each.
-
-  *Course Instructors: Jack Miller, Ph.D.; Brenda Gunderson, Ph.D.*
-  
-  [Fall 2020 Slides](/250fa20-slides)
+  8-week hour-long seminar for masters and doctoral students in mental health. The topic was "Promises and Pitfalls of Prediction Models in Mental Health". 
   """
 
 [[experience]]
