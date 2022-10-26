@@ -10,5 +10,5 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "brad-west-0G3Kj9L2JH0-unsplash.jpg"
 ---

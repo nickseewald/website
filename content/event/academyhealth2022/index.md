@@ -20,6 +20,7 @@ abstract: "<strong>Research Objective:</strong> Health policy researchers often 
 <strong>Implications for Policy or Practice:</strong> This work seeks to reduce uncertainty among investigators and analysts about whether and how to leverage individual-level information in policy evaluation data."
 
 slug: arm2022
+category: Poster
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
