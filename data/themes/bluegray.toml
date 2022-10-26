@@ -1,0 +1,23 @@
+# Blue Gray
+name = "Blue Gray"
+
+[light]
+  # Primary
+  primary = "#3E5D7E"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#4A484A"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(230, 231, 232)"
+  home_section_even = "rgb(242, 243, 243)"
+
+[dark]
+  # Primary
+  primary = "#557AA2"
+
+  link = "#557AA2"
+  link_hover = "#bbdefb"

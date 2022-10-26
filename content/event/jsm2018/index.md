@@ -1,0 +1,69 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: "Sample size considerations for comparing dynamic treatment regimens in a sequential multiple-assignment randomized trial with a continuous longitudinal outcome"
+slug: jsm2018
+event: Joint Statistical Meetings 2018
+event_url: https://ww2.amstat.org/meetings/jsm/2018/
+location: Vancouver, British Columbia, Canada
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country:
+summary: An oral presentation for a topic contributed session at JSM 2018 on "issues and advances in power calculations for mental health studies".
+abstract: Clinicians and researchers alike are increasingly interested in how best to individualize interventions. A dynamic treatment regimen (DTR) is a sequence of pre-specified decision rules which guide the delivery of a sequence of treatments that are tailored to the changing needs of the individual. The sequential multiple-assignment randomized trial (SMART) is a research tool that can be used to inform the construction of effective DTRs. We introduce a method for computing sample size for SMARTs in which the primary aim is to compare two embedded DTRs using a continuous repeated-measures outcome collected over the entire study. The sample size method is based on a longitudinal analysis that accounts for unique features of a SMART design. These features include modeling constraints and the over- or under-representation of different sequences of treatment (by design). We illustrate our methods using the ENGAGE study, a SMART aimed at developing a DTR for re-engaging patients with alcohol and cocaine use disorders who have dropped out of treatment.
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: 2018-07-30T09:35:00-04:00
+date_end: 2018-07-30T09:55:00-04:00
+all_day: false
+
+# Schedule page publish date (NOT event date).
+publishDate: 2022-07-26T21:07:15-04:00
+
+authors: [Nicholas J. Seewald, Kelley M. Kidwell, Inbal Nahum-Shani, Tianshuang Wu, James R. McKay, Daniel Almirall]
+tags: [SMARTs, DTRs]
+
+# Is this a featured event? (true/false)
+featured: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Custom links (optional).
+#   Uncomment and edit lines below to show custom links.
+links:
+- name: Slides
+  url: https://slides.nickseewald.com/jsm2018
+  icon_pack: fas
+  icon: users
+
+# Optional filename of your slides within your event's folder or a URL.
+url_slides:
+
+url_code:
+url_pdf:
+url_video:
+
+# Markdown Slides (optional).
+#   Associate this event with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
