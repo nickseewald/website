@@ -27,7 +27,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Seminar on Statistical Methods for Mental Health"
   company = "Johns Hopkins Bloomberg School of Public Health"
-  company_logo = "result"
+  company_logo = "bsph"
   location = "First Term, AY 2022-2023"
   date_start = "2022-09-01"
   date_end = "2022-10-20"
