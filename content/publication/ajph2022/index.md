@@ -4,7 +4,7 @@
 title: "Adaptive Interventions for a Dynamic and Responsive Public Health Approach"
 authors: ["Nicholas J. Seewald"]
 date: 2023-01-14T13:43:59-05:00
-doi: "https://doi.org/jqkz"
+doi: "jqkz"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-12-14T13:43:59-05:00
