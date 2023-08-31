@@ -27,15 +27,15 @@ content:
 
   email: See my CV or use the form above
   address:
-    street: 624 N Broadway Room 501
-    city: Baltimore
-    region: MD
-    postcode: "21205"
+    street: 624 Blockley Hall, 423 Guardian Drive
+    city: Philadelphia
+    region: PA
+    postcode: "19104"
     country: United States
     country_code: 1
   coordinates:
-    latitude: "39.298254943569425"
-    longitude: "-76.5945704311234"
+    latitude: "39.94862488310947"
+    longitude: "-75.19739135929261"
   
 design:
   columns: '2'
