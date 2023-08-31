@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow<br />Department of Health Policy and Management
+role: Assistant Professor<br />Department of Biostatistics, Epidemiology, and Informatics
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins Bloomberg School of Public Health
-  url: "https://www.jhsph.edu"
+- name: University of Pennsylvania Perelman School of Medicine
+  url: "https://www.med.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -81,7 +81,14 @@ I am a statistician who develops and applies statistical methodology to answer k
 
 My goal is to develop statistical methods that empower scientists to make impactful contributions in their fields. My methodological work involves building tools to address important statistical issues in a way that is accessible and understandable to applied researchers. My work is primarily related to causal inference -- the use of data to make causal conclusions through precise assumptions, strong study design, and estimation techniques -- with complex repeated-measures data. 
 
-Currently, I am a postdoctoral fellow in the Department of Health Policy and Management at the Johns Hopkins Bloomberg School of Public Health, working with [Elizabeth Stuart, PhD](https://www.elizabethstuart.org/) and [Beth McGinty, PhD](https://www.jhsph.edu/faculty/directory/profile/2908/emma-beth-mcginty) on causal inference for health policy evaluation. My PhD was supervised by [Daniel Almirall, PhD](http://www-personal.umich.edu/~dalmiral/). 
+In July 2023, I completed a postdoctoral fellowship in the Department of Health
+Policy and Management at the Johns Hopkins Bloomberg School of Public Health,
+working with [Elizabeth Stuart, PhD](https://www.elizabethstuart.org/) and [Beth
+McGinty,
+PhD](https://www.jhsph.edu/faculty/directory/profile/2908/emma-beth-mcginty) on
+causal inference for health policy evaluation. My PhD was supervised by [Daniel
+Almirall, PhD](http://www-personal.umich.edu/~dalmiral/). I joined Penn as an
+Assistant Professor, pending Provost approval, in September 2023. 
 
 <!-- <a class="btn btn-outline-primary btn-lg" href="about">hi</a> -->
 <a class="btn btn-outline-primary btn-lg" href="about">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>
