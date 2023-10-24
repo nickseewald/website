@@ -88,7 +88,7 @@ McGinty,
 PhD](https://www.jhsph.edu/faculty/directory/profile/2908/emma-beth-mcginty) on
 causal inference for health policy evaluation. My PhD was supervised by [Daniel
 Almirall, PhD](http://www-personal.umich.edu/~dalmiral/). I joined Penn as an
-Assistant Professor, pending Provost approval, in September 2023. 
+Assistant Professor in September 2023. 
 
 <!-- <a class="btn btn-outline-primary btn-lg" href="about">hi</a> -->
 <a class="btn btn-outline-primary btn-lg" href="about">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>
