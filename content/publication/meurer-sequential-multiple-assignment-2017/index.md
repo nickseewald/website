@@ -3,7 +3,7 @@ title: "Sequential Multiple Assignment Randomized Trials: An Opportunity for Imp
 date: 2017-04-01
 publishDate: 2020-07-25T00:35:04.172175Z
 authors: ["William J. Meurer", "Nicholas J. Seewald", "Kelley Kidwell"]
-publication_types: ["2"]
+publication_types: ["article-journal"]
 abstract: "BACKGROUND: Modern clinical trials in stroke reperfusion fall into 2 categories: alternative systemic pharmacological regimens to alteplase and “rescue” endovascular approaches using targeted thrombectomy devices and/or medications delivered directly for persistently occluded vessels. Clinical trials in stroke have not evaluated how initial pharmacological thrombolytic management might influence subsequent rescue strategy. A sequential multiple assignment randomized trial (SMART) is a novel trial design that can test these dynamic treatment regimens and lead to treatment guidelines that more closely mimic practice.
 AIM: To characterize a SMART design in comparison to traditional approaches for stroke reperfusion trials.
 METHODS: We conducted a numerical simulation study that evaluated the performance of contrasting acute stroke clinical trial designs of both initial reperfusion and rescue therapy. We compare a SMART design where the same patients are followed through initial reperfusion and rescue therapy within 1 trial to a standard phase III design comparing 2 reperfusion treatments and a separate phase II futility design of rescue therapy in terms of sample size, power, and ability to address particular research questions.
