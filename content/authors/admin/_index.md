@@ -51,8 +51,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
+- icon: bluesky-brands-solid
+  icon_pack: custom
   link: https://twitter.com/nickseewald
 - icon: google-scholar
   icon_pack: ai

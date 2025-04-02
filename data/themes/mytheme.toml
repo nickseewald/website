@@ -1,5 +1,5 @@
 # Blue Gray
-name = "Blue Gray"
+name = "New Theme"
 
 [light]
   # Primary
@@ -7,14 +7,13 @@ name = "Blue Gray"
 
   # Menu
   menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#4A484A"
+  menu_text = "#070600"
+  menu_text_active = "#A52422"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(253, 253, 253)"    # "rgb(230, 231, 232)"
-  home_section_even = "rgb(255, 255, 255)"   # "rgb(242, 243, 243)"
-  
+  home_section_odd = "rgb(253, 253, 253)"
+  home_section_even = "rgb(255, 255, 255)"
 
 [dark]
   # Primary

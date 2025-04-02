@@ -15,6 +15,8 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
+slug: "smith-digital-therapeutics-2023"
+
 date: '2022-09-27'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).

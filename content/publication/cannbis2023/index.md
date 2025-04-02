@@ -27,26 +27,27 @@ publication_types: ["article-journal"]
 publication: "Annals of Internal Medicine"
 publication_short: "Ann Intern Med"
 
-abstract: "<strong>Background:</strong>
-State medical cannabis laws may lead patients with chronic noncancer pain to substitute cannabis in place of prescription opioid or clinical guideline–concordant nonopioid prescription pain medications or procedures. <br>
-<strong>Objective:</strong>
-To assess effects of state medical cannabis laws on receipt of prescription opioids, nonopioid prescription pain medications, and procedures for chronic noncancer pain. <br>
-<strong>Design:</strong>
-Using data from 12 states that implemented medical cannabis laws and 17 comparison states, augmented synthetic control analyses estimated laws’ effects on receipt of chronic noncancer pain treatment, relative to predicted treatment receipt in the absence of the law.<br>
-<strong>Setting:</strong>
-United States, 2010 to 2022.<br>
-<strong>Participants:</strong>
-583 820 commercially insured adults with chronic noncancer pain. <br>
-<strong>Measurements:</strong>
-Proportion of patients receiving any opioid prescription, nonopioid prescription pain medication, or procedure for chronic noncancer pain; volume of each treatment type; and mean days’ supply and mean morphine milligram equivalents per day of prescribed opioids, per patient in a given month. <br>
-<strong>Results:</strong>
-In a given month during the first 3 years of law implementation, medical cannabis laws led to an average difference of 0.05 percentage points (95% CI, −0.12 to 0.21 percentage points), 0.05 percentage points (CI, −0.13 to 0.23 percentage points), and −0.17 percentage points (CI, −0.42 to 0.08 percentage points) in the proportion of patients receiving any opioid prescription, any nonopioid prescription pain medication, or any chronic pain procedure, respectively, relative to what we predict would have happened in that month had the law not been implemented.<br>
-<strong>Limitations:</strong>
-This study used a strong nonexperimental design but relies on untestable assumptions involving parallel counterfactual trends. Statistical power is limited by the finite number of states. Results may not generalize to noncommercially insured populations.<br>
-<strong>Conclusion:</strong>
-This study did not identify important effects of medical cannabis laws on receipt of opioid or nonopioid pain treatment among patients with chronic noncancer pain.<br>
-<strong>Primary Funding Source:</strong>
-National Institute on Drug Abuse."
+abstract: |
+  <strong>Background:</strong> 
+  State medical cannabis laws may lead patients with chronic noncancer pain to substitute cannabis in place of prescription opioid or clinical guideline–concordant nonopioid prescription pain medications or procedures. <br>
+  <strong>Objective:</strong>
+  To assess effects of state medical cannabis laws on receipt of prescription opioids, nonopioid prescription pain medications, and procedures for chronic noncancer pain. <br>
+  <strong>Design:</strong>
+  Using data from 12 states that implemented medical cannabis laws and 17 comparison states, augmented synthetic control analyses estimated laws’ effects on receipt of chronic noncancer pain treatment, relative to predicted treatment receipt in the absence of the law.<br>
+  <strong>Setting:</strong>
+  United States, 2010 to 2022.<br>
+  <strong>Participants:</strong>
+  583 820 commercially insured adults with chronic noncancer pain. <br>
+  <strong>Measurements:</strong>
+  Proportion of patients receiving any opioid prescription, nonopioid prescription pain medication, or procedure for chronic noncancer pain; volume of each treatment type; and mean days’ supply and mean morphine milligram equivalents per day of prescribed opioids, per patient in a given month. <br>
+  <strong>Results:</strong>
+  In a given month during the first 3 years of law implementation, medical cannabis laws led to an average difference of 0.05 percentage points (95% CI, −0.12 to 0.21 percentage points), 0.05 percentage points (CI, −0.13 to 0.23 percentage points), and −0.17 percentage points (CI, −0.42 to 0.08 percentage points) in the proportion of patients receiving any opioid prescription, any nonopioid prescription pain medication, or any chronic pain procedure, respectively, relative to what we predict would have happened in that month had the law not been implemented.<br>
+  <strong>Limitations:</strong>
+  This study used a strong nonexperimental design but relies on untestable assumptions involving parallel counterfactual trends. Statistical power is limited by the finite number of states. Results may not generalize to noncommercially insured populations.<br>
+  <strong>Conclusion:</strong>
+  This study did not identify important effects of medical cannabis laws on receipt of opioid or nonopioid pain treatment among patients with chronic noncancer pain.<br>
+  <strong>Primary Funding Source:</strong>
+  National Institute on Drug Abuse."
   
 
 # Summary. An optional shortened abstract.
@@ -58,11 +59,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: PubMed
+  url: https://pubmed.ncbi.nlm.nih.gov/37399549/
+  icon_pack: fas
+  icon: book-open
 
 url_pdf:
 url_code:
