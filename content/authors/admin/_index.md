@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+highlight_name: true
+
 # Role/position
 role: Assistant Professor<br />Department of Biostatistics, Epidemiology, and Informatics
 

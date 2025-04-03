@@ -41,11 +41,15 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: Slides
+  url: https://twitter.com
+  icon_pack: fas
+  icon: person-chalkboard
+- name: Paper
+  url: https://doi.org/nmmw
+  icon_pack: fas
+  icon: book
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
