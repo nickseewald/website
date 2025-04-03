@@ -47,7 +47,7 @@ abstract: |
   <strong>Conclusion:</strong>
   This study did not identify important effects of medical cannabis laws on receipt of opioid or nonopioid pain treatment among patients with chronic noncancer pain.<br>
   <strong>Primary Funding Source:</strong>
-  National Institute on Drug Abuse."
+  National Institute on Drug Abuse.
   
 
 # Summary. An optional shortened abstract.
