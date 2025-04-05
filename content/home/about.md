@@ -13,4 +13,4 @@ title = "Hi, I'm Nick."
 author = "admin"
 +++
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "seewaldCV/Seewald-Curriculum-Vitae.pdf" %}}Download my CV{{% /staticref %}}
