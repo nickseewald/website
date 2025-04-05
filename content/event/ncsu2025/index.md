@@ -43,7 +43,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Slides
-  url: https://twitter.com
+  url: https://slides.nickseewald.com/ncsu2025.pdf
   icon_pack: fas
   icon: person-chalkboard
 - name: Paper
