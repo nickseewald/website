@@ -20,30 +20,30 @@ organizations:
   url: "https://www.med.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: "Assistant Professor of Biostatistics at the University of Pennsyvlania Perelman School of Medicine"
 
-interests:
-- Causal Inference
-- Complex Longitudinal Data
-- Health Policy Evaluation
-- Dynamic Treatment Regimens
-- Sequential, Multiple-Assignment Randomized Trials
-- Expermental and Non-Experimental Study Design
+# interests:
+# - Causal Inference
+# - Complex Longitudinal Data
+# - Health Policy Evaluation
+# - Dynamic Treatment Regimens
+# - Sequential, Multiple-Assignment Randomized Trials
+# - Expermental and Non-Experimental Study Design
 
-education:
-  courses:
-  - course: PhD in Statistics
-    institution: University of Michigan
-    year: 2021
-  - course: MA in Statistics
-    institution: University of Michigan
-    year: 2018
-  - course: MS in Biostatistics
-    institution: University of Michigan
-    year: 2015
-  - course: BS in Mathematics
-    institution: University of Notre Dame
-    year: 2013
+# education:
+#   courses:
+#   - course: PhD in Statistics
+#     institution: University of Michigan
+#     year: 2021
+#   - course: MA in Statistics
+#     institution: University of Michigan
+#     year: 2018
+#   - course: MS in Biostatistics
+#     institution: University of Michigan
+#     year: 2015
+#   - course: BS in Mathematics
+#     institution: University of Notre Dame
+#     year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,9 +53,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: bluesky-brands-solid
-  icon_pack: custom
-  link: https://twitter.com/nickseewald
+# - icon: bluesky-brands-solid
+#   icon_pack: custom
+#   link: https://twitter.com/nickseewald
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3H0zYrYAAAAJ
@@ -74,23 +74,26 @@ social:
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Principal Investigators
 ---
+#### I am a collaborative biostatistician who builds tools to enable high quality, impactful science. 
 
-I am a statistician who develops and applies statistical methodology to answer key questions in public health and medicine  through thoughtful study design and analysis combined with deep collaboration with applied scientists. My work is motivated by problems across a wide array of applications, including physical activity, oncology, and substance use and related policy, and spans the entire investigative process from formulating a research question through study design and data analysis. 
+I develop methods and collaborations that create knowledge to improve human health.
+My work is driven by a commitment to build usable and accessible methods, and 
+I am driven by deep substantive collaboration across disciplines.
+I am interested in bridging gaps between statistical theory and practice, and
+building and disseminating tools to help scientists across fields -- including
+oncology, health policy, substance use, and implementation science -- ask better
+questions and arrive at trustworthy answers.  
 
-My goal is to develop statistical methods that empower scientists to make impactful contributions in their fields. My methodological work involves building tools to address important statistical issues in a way that is accessible and understandable to applied researchers. My work is primarily related to causal inference -- the use of data to make causal conclusions through precise assumptions, strong study design, and estimation techniques -- with complex repeated-measures data. 
+#### I am an expert in causal inference with complex repeated-measures data. 
 
-In July 2023, I completed a postdoctoral fellowship in the Department of Health
-Policy and Management at the Johns Hopkins Bloomberg School of Public Health,
-working with [Elizabeth Stuart, PhD](https://www.elizabethstuart.org/) and [Beth
-McGinty,
-PhD](https://www.jhsph.edu/faculty/directory/profile/2908/emma-beth-mcginty) on
-causal inference for health policy evaluation. My PhD was supervised by [Daniel
-Almirall, PhD](http://www-personal.umich.edu/~dalmiral/). I joined Penn as an
-Assistant Professor in September 2023. 
+I have deep expertise in the design and analysis of sequential,
+multiple-assignment randomized trials (SMARTs), particularly those with 
+longitudinal outcomes. In non-experimental settings, my work focuses on
+statistical issues in the use of multilevel data for health policy evaluation.
+
 
 <!-- <a class="btn btn-outline-primary btn-lg" href="about">hi</a> -->
 <a class="btn btn-outline-primary btn-lg" href="about">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>

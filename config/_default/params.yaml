@@ -8,7 +8,7 @@
 appearance:
   theme_day: bluegray
   theme_night: minimal
-  font: source_fonts
+  font: domine_dm_fonts
   font_size: L
 
 # SEO
@@ -18,8 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Nick Seewald is a statistician who develops and applies statistical methodology to answer key questions in public health and medicine  through thoughtful study design and analysis combined with deep collaboration with applied scientists.'
-    twitter: 'nickseewald'
+    description: 'Nick Seewald is a statistician who develops and applies statistical methodology to answer key questions in public health and medicine through thoughtful study design and analysis combined with deep collaboration with applied scientists.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Nicholas J. Seewald. This work is licensed under {license}'
+    notice: '© {year} Nicholas J. Seewald. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: false
