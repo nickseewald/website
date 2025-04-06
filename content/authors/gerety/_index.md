@@ -4,15 +4,15 @@ title: Nick Seewald
 
 # Username (this should match the folder name)
 authors:
-- admin
+- gerety
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
-highlight_name: true
+highlight_name: false
 
 # Role/position
-role: Assistant Professor<br />Department of Biostatistics, Epidemiology, and Informatics
+role: PhD Student<br />Department of Biostatistics, Epidemiology, and Informatics
 
 # Organizations/Affiliations
 organizations:
@@ -75,25 +75,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Grad Students
 ---
-#### I am a collaborative biostatistician who builds tools to enable high quality, impactful science. 
-
-I develop methods and collaborations that create knowledge to improve human health.
-My work is driven by a commitment to build usable and accessible methods, and 
-I am driven by deep substantive collaboration across disciplines.
-I am interested in bridging gaps between statistical theory and practice, and
-building and disseminating tools to help scientists across fields -- including
-oncology, health policy, substance use, and implementation science -- ask better
-questions and arrive at trustworthy answers.  
-
-#### I am an expert in causal inference with complex repeated-measures data. 
-
-I have deep expertise in the design and analysis of sequential,
-multiple-assignment randomized trials (SMARTs), particularly those with 
-longitudinal outcomes. In non-experimental settings, my work focuses on
-statistical issues in the use of multilevel data for health policy evaluation.
-
-
-<!-- <a class="btn btn-outline-primary btn-lg" href="about">hi</a> -->
-<a class="btn btn-outline-primary btn-lg" href="about">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>
