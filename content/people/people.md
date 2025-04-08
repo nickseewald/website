@@ -6,7 +6,7 @@
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
 title = "Lab Members"
 subtitle = ""
@@ -14,18 +14,16 @@ subtitle = ""
 [content]
 user_groups = [
   "Principal Investigator",
-  "Researchers",
+  "Graduate Students",
   "Grad Students",
-  "Administration",
-  "Visitors",
   "Alumni"
 ]
 
 [design]
-show_social = false
+show_social = true
 show_interests = true
 show_role = true
-show_organizations = true
+show_organizations = false
 
 
 

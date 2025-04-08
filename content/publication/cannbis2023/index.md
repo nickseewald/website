@@ -5,7 +5,7 @@ title: "Effects of U.S. State Medical Cannabis Laws on Treatment of Chronic Nonc
 authors: 
   - Emma E. McGinty
   - Kayla N. Tormohlen
-  - Nicholas J. Seewald
+  - admin
   - Mark C. Bicket
   - Alexander D. McCourt
   - Lainie Rutkow

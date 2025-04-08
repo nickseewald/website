@@ -18,11 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[experience]]
-#  title = "course"
-#  company = "Johns Hopkins Bloomberg School of Public Health"
-#  # company_logo = "bsph"
-#  location = "First term, AY 2022-2023"
+
+[[experience]]
+  title = "BSTA 6100: Biostatistical Methods for Epidemiology"
+  company = "University of Pennsylvania Perelman School of Medicine"
+  company_logo = "penn_shield"
+  date_start = "2024-08-27"
+  description = """
+  *Course designer and instructor of record.*
+
+  Introductory biostatistics course for students in Epidemiology PhD and MPH programs.
+  """
+
+[[experience]]
+  title = "SMART Designs for Developing Adaptive Interventions"
+  company = "Statistical Horizons"
+  company_logo = "statHorizons"
+  date_start = "2024-08-12"
+  description = """
+  A 4-day synchronous virtual seminar series on designing and analyzing sequential, multiple-assignment, randomized trials to build effective adaptive interventions. 
+
+  *Next session begins July 8, 2025. Register [here](https://statisticalhorizons.com/seminars/smart-designs-for-developing-adaptive-interventions/).*
+  """
 
 [[experience]]
   title = "Seminar on Statistical Methods for Mental Health"

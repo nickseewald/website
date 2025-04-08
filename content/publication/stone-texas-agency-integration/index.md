@@ -5,7 +5,7 @@ title: "Effects of Texas State Agency Integration on Mental Health Service Use A
 authors: 
   - Elizabeth M. Stone
   - Andrew D. Jopson
-  - Nicholas J. Seewald
+  - admin
   - Elizabeth A. Stuart
   - Elizabeth Wise
   - Alexander D. McCourt
@@ -32,7 +32,7 @@ abstract: "This study uses Texas’s 2017 integration of the state disability an
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [policy evaluation, collaboration]
+tags: [policy evaluation, collaboration, postdoc]
 categories: []
 featured: false
 

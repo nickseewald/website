@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nick Seewald
+title: Nicholas J. Seewald
 
 # Username (this should match the folder name)
 authors:
@@ -12,10 +12,12 @@ superuser: true
 highlight_name: true
 
 # Role/position
-role: Assistant Professor<br />Department of Biostatistics, Epidemiology, and Informatics
+role: Assistant Professor of Biostatistics
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Biostatistics, Epidemiology, and Informatics
+  url: "https://dbei.med.upenn.edu/"
 - name: University of Pennsylvania Perelman School of Medicine
   url: "https://www.med.upenn.edu/"
 

@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nick Seewald
+title: Melissa Martin
 
 # Username (this should match the folder name)
 authors:
-- meghan
+- martin
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,7 +12,7 @@ superuser: false
 highlight_name: false
 
 # Role/position
-role: PhD Student<br />Department of Biostatistics, Epidemiology, and Informatics
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://www.med.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Assistant Professor of Biostatistics at the University of Pennsyvlania Perelman School of Medicine"
+bio: "PhD Student in Biostatistics at the University of Pennsyvlania Perelman School of Medicine"
 
 # interests:
 # - Causal Inference
@@ -49,25 +49,25 @@ bio: "Assistant Professor of Biostatistics at the University of Pennsyvlania Per
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-# - icon: bluesky-brands-solid
-#   icon_pack: custom
-#   link: https://twitter.com/nickseewald
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=3H0zYrYAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/nseewald1
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/seewaldCV.pdf
-  target: _blank
+# social:
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
+# # - icon: bluesky-brands-solid
+# #   icon_pack: custom
+# #   link: https://twitter.com/nickseewald
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=3H0zYrYAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/nseewald1
+# # Link to a PDF of your resume/CV from the About widget.
+# # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/seewaldCV.pdf
+#   target: _blank
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -75,5 +75,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Graduate Students
 ---
