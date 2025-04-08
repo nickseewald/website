@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-08-05T14:46:41-04:00
 
-authors: [Nicholas J. Seewald, Kayla Tormohlen, Beth McGinty, Elizabeth A. Stuart]
+authors: [admin, Kayla Tormohlen, Beth McGinty, Elizabeth A. Stuart]
 tags: [policy evaluation, postdoc]
 
 # Is this a featured event? (true/false)
@@ -45,7 +45,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/jsm2022.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:

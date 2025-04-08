@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Sample Size Considerations for Comparing Dynamic Treatment Regimens in a SMART with a Longitudinal Outcome"
+title: "Sample size considerations for comparing dynamic treatment regimens in a SMART with a longitudinal outcome"
 event: "Joint Statistical Meetings 2019"
 event_url: https://ww2.amstat.org/meetings/jsm/2019/
 location: Denver, CO, USA
@@ -25,8 +25,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-07-26T20:03:40-04:00
 
-authors: [Nicholas J. Seewald, Kelley M. Kidwell, James R. McKay, Inbal Nahum-Shani, Tianshuang Wu, Daniel Almirall]
-tags: []
+authors: [admin, Kelley M. Kidwell, James R. McKay, Inbal Nahum-Shani, Tianshuang Wu, Daniel Almirall]
+tags: [SMARTs, DTRs, PhD]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -45,7 +45,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/jsm2019.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:

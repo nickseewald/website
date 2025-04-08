@@ -5,7 +5,7 @@ title: "Target Trial Emulation for Evaluating Health Policy"
 event: "HP/CHIBE Analytics Lunch Seminar"
 event_url:
 location: "Virtual"
-summary:
+summary: An invited virtual seminar for the University of Pennsylvania Health Policy / Center for Health Initiatives and Behavioral Economics analytics group.
 abstract:
 
 # Talk start and end times.
@@ -37,7 +37,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/chibeAnalytics2025.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
 

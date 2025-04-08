@@ -25,8 +25,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-07-26T13:00:24-04:00
 
-authors: ["Nicholas J. Seewald", "Daniel Almirall"]
-tags: ["SMARTs", "DTRs", "sample size", "dissertation"]
+authors: [admin, "Daniel Almirall"]
+tags: ["SMARTs", "DTRs", "sample size", "PhD"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -45,7 +45,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/jsm2020.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 - name: Video
   url: https://youtu.be/226_F37zFzw
   icon_pack: fab

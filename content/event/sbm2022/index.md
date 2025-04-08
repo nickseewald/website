@@ -25,8 +25,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-04-04T14:52:54-04:00
 
-authors: ["Ahnalee Brincks", "Shawna N. Smith", "Nicholas J. Seewald"]
-tags: []
+authors: ["Ahnalee Brincks", "Shawna N. Smith", admin]
+tags: [workshops]
 
 # Is this a featured event? (true/false)
 featured: true
@@ -45,7 +45,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/sbm2022.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: 

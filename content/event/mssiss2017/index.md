@@ -25,8 +25,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-07-26T21:06:48-04:00
 
-authors: [Nicholas J. Seewald, Inbal Nahum-Shani, James R. McKay, Daniel Almirall]
-tags: [SMARTs, DTRs]
+authors: [admin, Inbal Nahum-Shani, James R. McKay, Daniel Almirall]
+tags: [SMARTs, DTRs, PhD]
 
 # Is this a featured event? (true/false)
 featured: false

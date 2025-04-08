@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2025-04-01T19:40:36-04:00
 
-authors: [Nicholas J. Seewald, Beth McGinty, Elizabeth A. Stuart]
+authors: [admin, Beth McGinty, Elizabeth A. Stuart]
 tags: [trial emulation, policy evaluation, causal inference]
 
 # Is this a featured event? (true/false)
@@ -43,7 +43,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/tenhave2024.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:

@@ -26,7 +26,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2023-06-12T18:15:29-04:00
 
-authors: [Nicholas J. Seewald, Beth McGinty, Elizabeth A. Stuart]
+authors: [admin, Beth McGinty, Elizabeth A. Stuart]
 tags: [Postdoc, Policy Evaluation]
 
 # Is this a featured event? (true/false)
@@ -52,7 +52,7 @@ links:
   - name: Slides
     url: https://slides.nickseewald.com/ser2023.pdf
     icon_pack: fas
-    icon: users
+    icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 # url_slides:

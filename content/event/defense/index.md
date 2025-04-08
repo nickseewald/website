@@ -63,15 +63,15 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/defense2021.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 - name: Notation Cheat Sheet
   url: Notation_Cheat_Sheet.pdf
   icon_pack: fas
   icon: file-pdf
 - name: longsmart
   url: https://github.com/nickseewald/longsmart
-  icon_pack: fas
-  icon: code
+  icon_pack: fab
+  icon: github
 
 
 # Markdown Slides (optional).

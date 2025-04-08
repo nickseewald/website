@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: 'An invited talk at the 2025 ENAR Spring Meeting, in a session titled "It’s All About the Estimand: Asking the Right Questions to Best Inform Health Policy Decisions".'
+summary: 'An invited talk at the 2025 ENAR Spring Meeting, in a session titled "It’s All About the Estimand: Asking the Right Questions to Best Inform Health Policy Decisions" organized by Nandita Mitra.'
 abstract: |
   Evaluating the effects of health policies is hard. Practical constraints like heterogeneous policy implementation details, slow rollouts, and small sample sizes add to the complexity of estimating causal effects. Adding to these difficulties is a lack of clearly articulated considerations for choosing estimands in health policy evaluation research, which can lead to studies in which the choice of scientific question is guided by available analytic tools, rather than the other way around.
   
