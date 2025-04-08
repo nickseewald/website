@@ -12,15 +12,15 @@ slug: enar2021
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-03-17T15:15:00-04:00
-date_end: 2021-03-17T15:19:00-04:00
+date: 2021-03-17T15:00:00-04:00
+date_end: 2021-03-17T15:20:00-04:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-03-17T12:19:46-04:00
 
-authors: [Nicholas J. Seewald, Daniel Almirall]
-tags: [SMARTs, DTRs]
+authors: [admin, Daniel Almirall]
+tags: [SMARTs, DTRs, PhD]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -46,7 +46,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/enar2021.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 url_slides: 
 

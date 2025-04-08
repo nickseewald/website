@@ -12,7 +12,10 @@ address:
   postcode:
   country:
 summary: 'An invited talk at the 2025 ENAR Spring Meeting, in a session titled "It’s All About the Estimand: Asking the Right Questions to Best Inform Health Policy Decisions".'
-abstract: "<p>Evaluating the effects of health policies is hard. Practical constraints like heterogeneous policy implementation details, slow rollouts, and small sample sizes add to the complexity of estimating causal effects. Adding to these difficulties is a lack of clearly articulated considerations for choosing estimands in health policy evaluation research, which can lead to studies in which the choice of scientific question is guided by available analytic tools, rather than the other way around.</p> <p>In this talk, I discuss common estimands in health policy evaluation, their strengths and limitations, and how they have become prominent in non-experimental research. I then highlight more advanced causal questions that better reflect the complex nature of health policy evaluation and require estimands beyond, say, the average treatment effect among the treated. This talk serves as a prelude to the rest of the session, in which complex health policy questions are addressed with novel estimands and estimators to better understand policies’ nuanced effects and to move toward a healthier, more equitable future.</p>"
+abstract: |
+  Evaluating the effects of health policies is hard. Practical constraints like heterogeneous policy implementation details, slow rollouts, and small sample sizes add to the complexity of estimating causal effects. Adding to these difficulties is a lack of clearly articulated considerations for choosing estimands in health policy evaluation research, which can lead to studies in which the choice of scientific question is guided by available analytic tools, rather than the other way around.
+  
+  In this talk, I discuss common estimands in health policy evaluation, their strengths and limitations, and how they have become prominent in non-experimental research. I then highlight more advanced causal questions that better reflect the complex nature of health policy evaluation and require estimands beyond, say, the average treatment effect among the treated. This talk serves as a prelude to the rest of the session, in which complex health policy questions are addressed with novel estimands and estimators to better understand policies’ nuanced effects and to move toward a healthier, more equitable future.
 
 slug: enar2025
 
@@ -25,7 +28,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2025-04-01T19:21:48-04:00
 
-authors: [Nicholas J. Seewald]
+authors: [admin]
 tags: [causal inference, policy evaluation, estimands]
 
 # Is this a featured event? (true/false)
@@ -45,7 +48,7 @@ links:
   - name: Slides
     url: https://slides.nickseewald.com/enar2025.pdf
     icon_pack: fas
-    icon: users
+    icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: 

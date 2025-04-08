@@ -28,7 +28,7 @@ publication: "Annals of Internal Medicine"
 publication_short: "Ann Intern Med"
 
 abstract: |
-  <strong>Background:</strong> 
+  **Background**:
   State medical cannabis laws may lead patients with chronic noncancer pain to substitute cannabis in place of prescription opioid or clinical guideline–concordant nonopioid prescription pain medications or procedures. <br>
   <strong>Objective:</strong>
   To assess effects of state medical cannabis laws on receipt of prescription opioids, nonopioid prescription pain medications, and procedures for chronic noncancer pain. <br>

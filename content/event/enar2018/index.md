@@ -25,8 +25,8 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-07-26T21:07:09-04:00
 
-authors: [Nicholas J. Seewald, Kelley M. Kidwell, James R. McKay, Inbal Nahum-Shani, Daniel Almirall]
-tags: [SMARTs, DTRs]
+authors: [admin, Kelley M. Kidwell, James R. McKay, Inbal Nahum-Shani, Daniel Almirall]
+tags: [SMARTs, DTRs, PhD]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -45,7 +45,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/enar2018.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:

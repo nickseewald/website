@@ -4,7 +4,7 @@
 title: "Handling Correlation in Stacked Difference-in-Differences Estimates with Application to Medical Cannabis Policy"
 event: "International Conference on Computational and Methodological Statistics 2023"
 event_url: "http://www.cmstatistics.org/CMStatistics2023/index.php"
-location: "Berlin, DE"
+location: "Berlin, Germany"
 address:
   street:
   city:
@@ -23,7 +23,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2023-12-16T12:10:58+01:00
 
-authors: [Nicholas J. Seewald, Beth McGinty, Kayla Tormohlen, Ian Schmid, Elizabeth A. Stuart]
+authors: [admin, Beth McGinty, Kayla Tormohlen, Ian Schmid, Elizabeth A. Stuart]
 tags: [postdoc, causal inference, diff-in-diff]
 
 # Is this a featured event? (true/false)
@@ -43,9 +43,9 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/cmstatistics2023.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 - name: Paper
-  url: https://www.nickseewald.com/publication/seewald-shared-control-individuals-2023/
+  url: /publication/seewald-shared-control-individuals-2023/
   icon_pack: fas
   icon: book
 

@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-05-01T00:00:00-04:00
 
-authors: [Nicholas J. Seewald, Beth McGinty, Elizabeth A. Stuart]
+authors: [admin, Beth McGinty, Elizabeth A. Stuart]
 tags: [Policy Evaluation, Postdoc]
 
 # Is this a featured event? (true/false)
@@ -45,7 +45,7 @@ links:
   - name: Slides
     url: https://slides.nickseewald.com/acic2022.pdf
     icon_pack: fas
-    icon: users
+    icon: person-chalkboard
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab

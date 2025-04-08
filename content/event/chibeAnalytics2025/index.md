@@ -17,7 +17,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2025-01-21T09:41:20-05:00
 
-authors: [Nicholas J. Seewald]
+authors: [admin]
 tags: [policy evaluation]
 
 # Is this a featured event? (true/false)

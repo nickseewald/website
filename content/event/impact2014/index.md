@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-07-26T16:44:34-04:00
 
-authors: [Nicholas J. Seewald, Daniel Almirall, Kelley M. Kidwell]
+authors: [admin, Daniel Almirall, Kelley M. Kidwell]
 tags: [SMARTs]
 
 # Is this a featured event? (true/false)

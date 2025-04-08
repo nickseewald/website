@@ -19,7 +19,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-01T18:47:26-04:00
 
-authors: [Nicholas J. Seewald, Daniel Almirall]
+authors: [admin, Daniel Almirall]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -39,7 +39,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/enar2020.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 

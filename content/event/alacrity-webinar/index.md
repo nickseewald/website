@@ -14,7 +14,7 @@ address:
 summary: The Johns Hopkins ALACRITY Center for Health and Longevity in Mental Illness hosts trainings for researchers interested in methods used in health services research. This series of videos provides an introduction to the use of SMARTs to build high-quality adaptive interventions for health services. 
 abstract: The Johns Hopkins ALACRITY Center for Health and Longevity in Mental Illness hosts trainings for researchers interested in methods used in health services research. This series of videos provides an introduction to the use of SMARTs to build high-quality adaptive interventions for health services. Initially, we define an adaptive intervention and discuss components thereof, with a focus on identifying scientific questions of interest which might hinder their development. We then introduce the sequential, multiple-assignment randomized trial (SMART),  which is one type of experimental design which can answer scientific questions about multiple stages of the development of an effective adaptive intervention. Finally, we discuss design and analytic considerations for SMARTs.
 
-slug: alacrity-webinar
+slug: alacrity-webinar-smarts
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,8 +24,8 @@ all_day: true
 # Schedule page publish date (NOT event date).
 publishDate: 2022-02-13T14:22:30-05:00
 
-authors: [Nicholas J. Seewald]
-tags: [SMARTs, DTRs]
+authors: [admin]
+tags: [SMARTs, DTRs, workshops]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -48,7 +48,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald/com/alacrity-webinar
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:

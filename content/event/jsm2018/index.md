@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-07-26T21:07:15-04:00
 
-authors: [Nicholas J. Seewald, Kelley M. Kidwell, Inbal Nahum-Shani, Tianshuang Wu, James R. McKay, Daniel Almirall]
+authors: [admin, Kelley M. Kidwell, Inbal Nahum-Shani, Tianshuang Wu, James R. McKay, Daniel Almirall]
 tags: [SMARTs, DTRs]
 
 # Is this a featured event? (true/false)
@@ -44,7 +44,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/jsm2018
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
