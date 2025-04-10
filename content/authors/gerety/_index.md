@@ -12,7 +12,7 @@ superuser: false
 highlight_name: false
 
 # Role/position
-role: PhD Student
+role: Biostatistics PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -23,8 +23,27 @@ organizations:
 bio: "PhD Student in Biostatistics at the University of Pennsyvlania Perelman School of Medicine"
 
 # interests:
-# - Target Trial Emulation
+# - Causal Inference
+# - Complex Longitudinal Data
+# - Health Policy Evaluation
+# - Dynamic Treatment Regimens
+# - Sequential, Multiple-Assignment Randomized Trials
+# - Expermental and Non-Experimental Study Design
 
+# education:
+#   courses:
+#   - course: PhD in Statistics
+#     institution: University of Michigan
+#     year: 2021
+#   - course: MA in Statistics
+#     institution: University of Michigan
+#     year: 2018
+#   - course: MS in Biostatistics
+#     institution: University of Michigan
+#     year: 2015
+#   - course: BS in Mathematics
+#     institution: University of Notre Dame
+#     year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,9 +62,12 @@ bio: "PhD Student in Biostatistics at the University of Pennsyvlania Perelman Sc
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/nseewald1
-# - icon: link
-#   icon_pack: fas
-
+# # Link to a PDF of your resume/CV from the About widget.
+# # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/seewaldCV.pdf
+#   target: _blank
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
@@ -53,5 +75,5 @@ bio: "PhD Student in Biostatistics at the University of Pennsyvlania Perelman Sc
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Students
 ---

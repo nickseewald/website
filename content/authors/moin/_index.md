@@ -1,18 +1,19 @@
 ---
 # Display name
-title: Melissa Martin
+title: Emily E. Moin
 
 # Username (this should match the folder name)
 authors:
-- martin
+- moin
 
 # Is this the primary user of the site?
 superuser: false
 
 highlight_name: false
+underline_name: true
 
 # Role/position
-role: Biostatistics PhD Student
+role: Masters of Science in Clinical Epidemiology Student
 
 # Organizations/Affiliations
 organizations:
@@ -49,10 +50,10 @@ bio: "PhD Student in Biostatistics at the University of Pennsyvlania Perelman Sc
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
+social:
+- icon: orcid
+  icon_pack: ai
+  link: "https://orcid.org/0000-0002-5174-6473"
 # # - icon: bluesky-brands-solid
 # #   icon_pack: custom
 # #   link: https://twitter.com/nickseewald

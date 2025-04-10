@@ -10,6 +10,7 @@ authors:
 superuser: true
 
 highlight_name: true
+underline_name: false
 
 # Role/position
 role: Assistant Professor of Biostatistics

@@ -3,9 +3,9 @@
 
 title: "SMARTsize"
 summary: "An online sample size calculator for binary- and continuous-outcome SMARTs"
-authors: ["Nicholas J. Seewald", "Daniel Almirall", "Kelley M. Kidwell"]
-tags: []
-categories: []
+authors: [admin, "Daniel Almirall", "Kelley M. Kidwell"]
+tags: ["SMARTs", "software"]
+categories: ["software"]
 featured: true
 date: 2020-07-26T08:05:35-04:00
 

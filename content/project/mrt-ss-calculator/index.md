@@ -3,9 +3,9 @@
 
 title: "MRT-SS Calculator"
 summary: "An interactive sample size calculator for micro-randomized trials"
-authors: ["Ji Sun", "Nicholas J. Seewald", "Peng Liao"]
-tags: ["MRTs"]
-categories: []
+authors: ["Ji Sun", admin, "Peng Liao"]
+tags: ["MRTs", "software"]
+categories: ["software"]
 date: 2020-07-26T08:09:41-04:00
 
 # Optional external URL for project (replaces project detail page).

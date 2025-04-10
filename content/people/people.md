@@ -14,8 +14,7 @@ subtitle = ""
 [content]
 user_groups = [
   "Principal Investigator",
-  "Graduate Students",
-  "Grad Students",
+  "Students",
   "Alumni"
 ]
 
