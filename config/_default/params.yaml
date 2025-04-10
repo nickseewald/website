@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: bluegray
+  theme_day: redblue
   theme_night: minimal
   font: domine_dm_fonts
   font_size: L
