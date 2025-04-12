@@ -25,6 +25,7 @@ publishDate: 2023-12-16T12:10:58+01:00
 
 authors: [admin, Beth McGinty, Kayla Tormohlen, Ian Schmid, Elizabeth A. Stuart]
 tags: [postdoc, causal inference, diff-in-diff]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: true

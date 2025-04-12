@@ -26,6 +26,7 @@ publishDate: 2025-03-21T10:21:46-04:00
 
 authors: [Nicholas J. Seewald]
 tags: [policy evaluation]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false

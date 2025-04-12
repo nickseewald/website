@@ -27,6 +27,7 @@ publishDate: 2025-04-01T19:29:13-04:00
 
 authors: [admin]
 tags: [causal inference, policy evaluation, postdoc]
+categories: [contributed talks]
 
 # Is this a featured event? (true/false)
 featured: false

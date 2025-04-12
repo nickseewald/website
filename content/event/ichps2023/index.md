@@ -31,6 +31,7 @@ publishDate: 2023-01-15T11:14:29-05:00
 
 authors: [admin, Kayla Tormohlen, Beth McGinty, Elizabeth A. Stuart]
 tags: [policy evaluation, postdoc, data aggregation]
+categories: [contributed talks]
 
 # Is this a featured event? (true/false)
 featured: false

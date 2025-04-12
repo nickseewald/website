@@ -25,6 +25,7 @@ publishDate: 2025-04-01T19:40:36-04:00
 
 authors: [admin, Beth McGinty, Elizabeth A. Stuart]
 tags: [trial emulation, policy evaluation, causal inference]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false

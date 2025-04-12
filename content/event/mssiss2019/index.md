@@ -27,6 +27,7 @@ publishDate: 2022-07-26T21:06:55-04:00
 
 authors: [admin, Daniel Almirall]
 tags: [SMARTs, DTRs, PhD]
+categories: [posters]
 
 # Is this a featured event? (true/false)
 featured: false

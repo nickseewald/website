@@ -27,6 +27,7 @@ publishDate: 2022-03-11T10:21:40-05:00
 
 authors: [admin]
 tags: [SMARTs, DTRs]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false

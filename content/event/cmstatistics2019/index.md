@@ -27,6 +27,7 @@ publishDate: 2022-07-26T21:08:07-04:00
 
 authors: [admin, Daniel Almirall]
 tags: [SMARTs, DTRs]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false

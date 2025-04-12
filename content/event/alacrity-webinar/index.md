@@ -25,7 +25,8 @@ all_day: true
 publishDate: 2022-02-13T14:22:30-05:00
 
 authors: [admin]
-tags: [SMARTs, DTRs, workshops]
+tags: [SMARTs, DTRs]
+categories: [workshops]
 
 # Is this a featured event? (true/false)
 featured: false

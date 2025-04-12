@@ -20,7 +20,8 @@ all_day: false
 publishDate: 2020-08-01T18:47:26-04:00
 
 authors: [admin, Daniel Almirall]
-tags: []
+tags: [SMARTs, DTRs]
+categories: [contributed talks]
 
 # Is this a featured talk? (true/false)
 featured: false

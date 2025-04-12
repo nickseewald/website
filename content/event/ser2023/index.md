@@ -28,6 +28,7 @@ publishDate: 2023-06-12T18:15:29-04:00
 
 authors: [admin, Beth McGinty, Elizabeth A. Stuart]
 tags: [Postdoc, Policy Evaluation]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: true

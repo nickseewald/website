@@ -1,13 +1,11 @@
 ---
-title: Presentations and Posters
+title: Presentations, Workshops, and Posters
 
 # View.
 #   1 = List
 #   2 = Compact
 #   3 = Card
 view: 2
-
-profile: false
 
 # Optional header image (relative to `static/img/` folder).
 banner:

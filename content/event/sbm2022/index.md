@@ -26,7 +26,8 @@ all_day: false
 publishDate: 2022-04-04T14:52:54-04:00
 
 authors: ["Ahnalee Brincks", "Shawna N. Smith", admin]
-tags: [workshops]
+tags: [SMARTs]
+categories: [workshops]
 
 # Is this a featured event? (true/false)
 featured: true

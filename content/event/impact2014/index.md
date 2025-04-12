@@ -27,6 +27,7 @@ publishDate: 2022-07-26T16:44:34-04:00
 
 authors: [admin, Daniel Almirall, Kelley M. Kidwell]
 tags: [SMARTs]
+categories: [posters]
 
 # Is this a featured event? (true/false)
 featured: false

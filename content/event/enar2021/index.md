@@ -21,6 +21,7 @@ publishDate: 2021-03-17T12:19:46-04:00
 
 authors: [admin, Daniel Almirall]
 tags: [SMARTs, DTRs, PhD]
+categories: [contributed talks]
 
 # Is this a featured talk? (true/false)
 featured: false

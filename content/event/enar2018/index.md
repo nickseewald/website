@@ -27,6 +27,7 @@ publishDate: 2022-07-26T21:07:09-04:00
 
 authors: [admin, Kelley M. Kidwell, James R. McKay, Inbal Nahum-Shani, Daniel Almirall]
 tags: [SMARTs, DTRs, PhD]
+categories: [contributed talks]
 
 # Is this a featured event? (true/false)
 featured: false

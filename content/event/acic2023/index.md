@@ -27,6 +27,7 @@ publishDate: 2023-05-24T07:04:54-05:00
 
 authors: [admin, Beth McGinty, Kayla Tormohlen, Elizabeth A. Stuart]
 tags: [postdoc, policy evaluation]
+categories: [contributed talks]
 
 # Is this a featured event? (true/false)
 featured: true

@@ -19,6 +19,7 @@ publishDate: 2025-01-21T09:41:20-05:00
 
 authors: [admin]
 tags: [policy evaluation]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false

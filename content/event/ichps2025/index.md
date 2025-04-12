@@ -27,7 +27,8 @@ all_day: false
 publishDate: 2025-04-08T11:26:32-04:00
 
 authors: [admin, Eli Ben-Michael, Beth McGinty]
-tags: [policy evaluation, workshops]
+tags: [policy evaluation]
+categories: [workshops]
 
 # Is this a featured event? (true/false)
 featured: false

@@ -43,6 +43,7 @@ all_day: false
 publishDate: 2022-05-01T00:00:00-04:00
 
 tags: [policy evaluation, postdoc, hierarchical data]
+categories: [posters]
 
 # Is this a featured event? (true/false)
 featured: false

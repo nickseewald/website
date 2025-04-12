@@ -27,6 +27,7 @@ publishDate: 2020-07-26T13:00:24-04:00
 
 authors: [admin, "Daniel Almirall"]
 tags: ["SMARTs", "DTRs", "sample size", "PhD"]
+categories: [contributed talks]
 
 # Is this a featured talk? (true/false)
 featured: true

@@ -27,6 +27,7 @@ publishDate: 2022-07-26T20:52:03-04:00
 
 authors: [admin, Daniel Almirall, Kelley M. Kidwell]
 tags: [SMARTs, DTRs, masters]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false

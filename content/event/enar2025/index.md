@@ -30,6 +30,7 @@ publishDate: 2025-04-01T19:21:48-04:00
 
 authors: [admin]
 tags: [causal inference, policy evaluation, estimands]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: true
