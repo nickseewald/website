@@ -5,7 +5,18 @@
     font-size: 1.15rem;
 }
 
+// Adjust spacing for people widget
 .people-widget .mb-4 {
     padding-top: 1.25rem;
     padding-bottom: -.25rem;
+}
+
+// Add spacing below year-specific blocks of talks
+#talk_list .col-lg-10 {
+    padding-bottom: 2rem;
+}
+
+.card-body .text-crazy {
+    color: rgba(0, 0, 255, 1) !important;
+    text-decoration: line-through !important;
 }
