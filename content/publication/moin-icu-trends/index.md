@@ -19,13 +19,27 @@ publication_types: ["article-journal"]
 publication: "*JAMA*"
 publication_short: ""
 
-abstract: ""
+abstract: |
+  **Importance**: Nationwide data are unavailable regarding changes in intensive care unit (ICU) outcomes and use of life support over the past ten years, limiting understanding of practice changes.
+  
+  **Objective**: To portray the epidemiology of U.S. critical care before, during, and after the COVID-19 pandemic.
+  
+  **Design, Setting and Participants**: Retrospective cohort study of adult patients admitted to an ICU for any reason, using data from the 54 U.S. health systems continuously contributing to the Epic Cosmos database from 2014 – 2023.
+  
+  **Exposures**: Patient demographics, COVID-19 status, and pandemic era.
+  
+  **Main Outcomes and Measures**: In-hospital mortality, ICU length of stay (LOS), and receipt of life-support interventions.
+  
+  **Results**: Of 3,453,687 admissions including ICU care, median age was 65 (IQR 53 – 75). Patients were 55.3% male, 17.3% Black, and 6.1% Hispanic or Latino. In-hospital mortality was 10.9%. Adjusted in-hospital mortality was elevated during the pandemic among both COVID-negative (aOR 1.3, 95% CI 1.2 – 1.3) and COVID-positive patients (aOR 4.3, 95% CI 3.8 – 4.8), and overall returned to baseline by mid-2022. Median ICU LOS was 2.1 days (IQR 1.1 – 4.2), with increases during the pandemic among COVID-positive patients (2.0 days difference for COVID-positive vs. COVID-negative patients, 95% CI 2.0 – 2.1).  Use of vasopressors increased from 7.2% to 21.6% of ICU stays. Rates of invasive mechanical ventilation were 23.2% (95% CI 23.1 – 23.2%) pre-pandemic, rose to 25.8% (95% CI 25.8 – 25.9%) during the pandemic, and declined below pre-pandemic baseline thereafter (22.0% [95% CI 21.9 – 22.2%]).
+  
+  **Conclusions and Relevance**: Pandemic-era increases in in-hospital mortality and LOS among U.S. ICU patients have returned to recent historical baselines. Vasopressor use increased from 2014 to 2023, whereas fewer patients are now receiving mechanical ventilation than prior to the pandemic, suggesting changing clinical practice in response to experience or evidence. 
+  
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [collaboration]
-categories: []
+tags: []
+categories: [collaboration]
 featured: true
 
 # Custom links (optional).

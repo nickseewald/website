@@ -21,7 +21,7 @@ organizations:
   url: "https://www.med.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "PhD Student in Biostatistics at the University of Pennsyvlania Perelman School of Medicine"
+bio: "Fellow in the Division of Pulmonary and Critical Care Medicine at the Hospital of the University of Pennsylvania"
 
 # interests:
 # - Causal Inference
@@ -54,12 +54,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: "https://orcid.org/0000-0002-5174-6473"
-# # - icon: bluesky-brands-solid
-# #   icon_pack: custom
-# #   link: https://twitter.com/nickseewald
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=3H0zYrYAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=zmqP2jkAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/nseewald1
@@ -76,5 +73,5 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- MSCE Students
 ---
