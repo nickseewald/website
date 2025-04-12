@@ -69,7 +69,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/seewaldCV.pdf
+  link: https://raw.githubusercontent.com/nickseewald/seewaldCV/main/Seewald-Curriculum-Vitae.pdf
   target: _blank
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -99,4 +99,4 @@ statistical issues in the use of multilevel data for health policy evaluation.
 
 
 <!-- <a class="btn btn-outline-primary btn-lg" href="about">hi</a> -->
-<a class="btn btn-outline-primary btn-lg" href="about">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>
+<a class="btn btn-outline-primary btn-lg" href="research">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>
