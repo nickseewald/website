@@ -16,7 +16,7 @@ name = "Coolers Red Blue"
   home_section_odd = "#F7F7F7"
   home_section_even = "#F7F7F7"
 
-  link = "#2b2d42"
+  # link = "#2b2d42"
   link_hover = "#d90429"
 
 [dark]
