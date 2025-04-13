@@ -8,7 +8,7 @@ title: Design considerations for preparation, optimization, and evaluation
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Shawna N. Smith
-- Nicholas J. Seewald
+- admin
 - Predrag Klasnja
 
 # Author notes (such as 'Equal Contribution')

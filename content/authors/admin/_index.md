@@ -80,6 +80,8 @@ social:
 user_groups:
 - Principal Investigator
 ---
+<h1>Hi, I'm Nick.</h1>
+
 #### I am a collaborative biostatistician who builds tools to enable high quality, impactful science. 
 
 I develop methods and collaborations that create knowledge to improve human health.

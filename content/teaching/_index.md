@@ -29,8 +29,8 @@ sections:
             filename: lectureHall2.jpg
             filters:
                 brightness: .45
-            size: contain
-            position: top left
+            size: cover
+            position: center
         text_color_light: true
 
   - block: markdown
