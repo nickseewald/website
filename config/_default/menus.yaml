@@ -26,10 +26,10 @@ main:
     url: 'teaching'
     weight: 50
   - name: Software
-    url: '#software'
+    url: '#home_software'
     weight: 60
   - name: Contact
-    url: '#contact'
+    url: '#home_contact'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.

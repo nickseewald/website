@@ -1,16 +1,17 @@
 ---
-title: Nicholas J. Seewald, PhD
+title: Nick Seewald, PhD
 type: landing
 
 sections:
   - block: about.biography
     id: bio
     content:
-      title: Hi, I'm Nick.
+    #   title: Hi, I'm Nick.
       username: admin
 
   - block: collection
-    id: pubs
+    id: home_pubs
+    class: section_font
     content:
       title: Featured Publications
       subtitle: ''
@@ -42,7 +43,7 @@ sections:
       columns: '2'
 
   - block: collection
-    id: talks
+    id: home_talks
     content:
       title: Recent & Upcoming Talks
       subtitle: ''
@@ -75,7 +76,7 @@ sections:
 
 
   - block: portfolio
-    id: software
+    id: home_software
     content:
       title: Software
       subtitle: 
@@ -103,7 +104,7 @@ sections:
       flip_alt_rows: false
 
   - block: contact
-    id: contact
+    id: home_contact
     content:
       title: Contact
       text: ''
