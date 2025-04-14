@@ -1,4 +1,4 @@
-# https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557
+# https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429
 name = "Coolers Red Blue"
 
 [light]
@@ -16,8 +16,8 @@ name = "Coolers Red Blue"
   home_section_odd = "#F7F7F7"
   home_section_even = "#F7F7F7"
 
-  # link = "#2b2d42"
-  link_hover = "#d90429"
+  link = "#C30324"
+  link_hover = "#D90429"
 
 [dark]
   # Primary

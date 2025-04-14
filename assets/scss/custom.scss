@@ -7,6 +7,10 @@
     font-size: 1.15rem;
 }
 
+.section-subsubheading a {
+    color: #2B2D42;
+}
+
 // Adjust spacing for people widget
 .people-widget .mb-4 {
     padding-top: 1.25rem;
@@ -42,4 +46,8 @@ h1:not(.article-container > h1) {
 
 .portrait-title h3 {
     font-weight: 400;
+}
+
+.card .card-image.hover-overlay::after{
+    content: '\f105';
 }
