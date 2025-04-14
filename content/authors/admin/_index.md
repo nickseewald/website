@@ -55,7 +55,7 @@ bio: "Assistant Professor of Biostatistics at the University of Pennsyvlania Per
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: '#home_contact'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-8367-0522

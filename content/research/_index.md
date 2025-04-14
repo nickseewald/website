@@ -27,18 +27,18 @@ sections:
       # Choose an optional background color, gradient, image, or video
       background:
         image:
-            filename: janko-ferlic-sfL_QOnmy00-unsplash.jpg
+            filename: sparsh-paliwal-2PLFgAKVpe0-unsplash.jpg
             filters:
                 brightness: .45
             size: cover
-            position: left bottom
+            position: left top
             caption: "hey there"
         text_color_light: true
   
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Methods Projects
       filters:
         folders:
           - project
