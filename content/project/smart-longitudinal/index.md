@@ -2,9 +2,9 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "SMARTs with Longitudinal Outcomes"
-summary: ""
-authors: []
-tags: ["SMARTs"]
+summary: "Methods for the design and analysis of sequential, multiple-assignment randomized trials with continuous longitudinal outcomes."
+authors: [admin]
+tags: ["SMARTs", "DTRs"]
 categories: []
 # date: 2025-04-09T09:41:10-04:00
 
@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+SMARTs are randomized trials in which some or all participants are randomized more than once, often with the
+goal of constructing a high-quality dynamic treatment regime (DTR). This work provides applied scientists with
+design tools needed to power a SMART when the primary goal is to compare two embedded DTRs on a continuous outcome
+collected over the course of multiple stages of randomization.

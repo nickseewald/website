@@ -75,7 +75,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["smart-longitudinal"]
 ---
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/226_F37zFzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen"></iframe></div>

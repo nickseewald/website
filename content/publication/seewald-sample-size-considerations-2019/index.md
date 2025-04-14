@@ -8,6 +8,7 @@ abstract: "Clinicians and researchers alike are increasingly interested in how b
 featured: false
 publication: "*Statistical Methods in Medical Research*"
 tags: ["SMARTs", "DTRs", "dissertation", "PhD"]
+projects: ["smart-longitudinal"]
 doi: "10/gf85ss"
 links:
   - name: Supplement
