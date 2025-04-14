@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Target trial emulation (TTE) is a popular framework for thinking about the design of high-quality non-experimental studies. For health policy evaluation, however, different scientific and practical considerations necessitate more creative design thinking and thus an extension of the TTE framework. This work builds that extension and offers a structured approach to designing rigorous policy evaluations.
