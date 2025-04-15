@@ -25,14 +25,14 @@ bio: Fellow in the Division of Hematology and Oncology at the Hospital of the Un
 # - Interest 1
 # - Interest 2
 
-education:
-  courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+# education:
+#   courses:
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
+#   - course: Title course 1
+#     institution: Name of Institution
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,3 +69,5 @@ underline_name: true
 user_groups:
 - MSCE Students
 ---
+
+Nora Taranto is a fellow in the Division of Hematology and Oncology at the Hospital of the University of Pennsylvania and second-year MSCE student.

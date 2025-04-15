@@ -9,7 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-highlight_name: false
+underline_name: true
 
 # Role/position
 role: Biostatistics PhD Student

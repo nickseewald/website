@@ -9,7 +9,6 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-highlight_name: false
 underline_name: true
 
 # Role/position
@@ -26,10 +25,6 @@ bio: "Fellow in the Division of Pulmonary and Critical Care Medicine at the Hosp
 # interests:
 # - Causal Inference
 # - Complex Longitudinal Data
-# - Health Policy Evaluation
-# - Dynamic Treatment Regimens
-# - Sequential, Multiple-Assignment Randomized Trials
-# - Expermental and Non-Experimental Study Design
 
 # education:
 #   courses:
@@ -75,3 +70,5 @@ social:
 user_groups:
 - MSCE Students
 ---
+
+Emily E. Moin, MD, MBE is a fellow in the Division of Pulmonary and Critical Care Medicine at the Hospital of the University of Pennsylvania and second-year MSCE student. 
