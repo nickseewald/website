@@ -30,7 +30,7 @@ sections:
             filters:
                 brightness: .45
             size: cover
-            position: center
+            position: bottom
         text_color_light: true
 
   - block: markdown
