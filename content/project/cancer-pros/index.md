@@ -2,7 +2,7 @@
 # Documentation: https://docs.hugoblox.com/managing-content/
 
 title: "Patient-Reported Outcomes in Cancer"
-summary: ""
+summary: "Patient-centered care is an important aspect of treating cancer, particularly as a way to inform comparative effectiveness research. This work builds an evidence base for treatment selection based on quality of life and other measures."
 authors: []
 tags: [applied, cancer]
 categories: []
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Patient-reported outcomes offer an important perspective in cancer care, particularly in regards to choosing a treatment. 

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "HeartSteps"
+title: "Digital Health and HeartSteps"
 summary: "HeartSteps was the first-ever micro-randomized trial (MRT) designed to optimize a just-in-time adaptive intervention to increase physical activity among sedentary adults."
 authors: []
 tags: [applied, "physical activity"]

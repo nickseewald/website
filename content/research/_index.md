@@ -42,6 +42,8 @@ sections:
         folders:
           - project
         exclude_tags: [software, applied]
+      sort_by: 'Title'
+      sort_ascending: true
       buttons:
         - name: All
           tag: '*'
@@ -62,6 +64,8 @@ sections:
         folders:
           - project
         exclude_tags: [software, methods]
+      sort_by: 'Title'
+      sort_ascending: true
       buttons:
         - name: All
           tag: '*'

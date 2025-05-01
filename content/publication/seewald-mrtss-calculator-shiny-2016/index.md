@@ -17,4 +17,5 @@ links:
     url: https://arxiv.org/abs/1609.00695
     icon_pack: ai
     icon: arxiv
+projects: ["digital-health"]
 ---
