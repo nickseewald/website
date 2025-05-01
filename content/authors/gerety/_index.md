@@ -10,6 +10,7 @@ authors:
 superuser: false
 
 highlight_name: false
+underline_name: true
 
 # Role/position
 role: Biostatistics PhD Student
@@ -22,28 +23,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: "PhD Student in Biostatistics at the University of Pennsyvlania Perelman School of Medicine"
 
-# interests:
-# - Causal Inference
-# - Complex Longitudinal Data
-# - Health Policy Evaluation
+interests:
+- Causal Inference
+- Complex Longitudinal Data
+- Survival Analysis
 # - Dynamic Treatment Regimens
 # - Sequential, Multiple-Assignment Randomized Trials
 # - Expermental and Non-Experimental Study Design
 
-# education:
-#   courses:
-#   - course: PhD in Statistics
-#     institution: University of Michigan
-#     year: 2021
-#   - course: MA in Statistics
-#     institution: University of Michigan
-#     year: 2018
-#   - course: MS in Biostatistics
-#     institution: University of Michigan
-#     year: 2015
-#   - course: BS in Mathematics
-#     institution: University of Notre Dame
-#     year: 2013
+education:
+  courses:
+  - course: MS in Statistics (concentration in Biostatistics)
+    institution: University of Virginia
+    year: 2023
+  - course: BA in Statistics (concentration in Biostatistics) and Global Public Health
+    institution: University of Virginia
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,12 +48,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-8586-5139
-# # - icon: bluesky-brands-solid
-# #   icon_pack: custom
-# #   link: https://twitter.com/nickseewald
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.com/citations?user=3H0zYrYAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=B7WhE5AAAAAJ&hl=en
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/nseewald1
