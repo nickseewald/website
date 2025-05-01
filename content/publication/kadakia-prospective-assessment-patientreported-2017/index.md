@@ -24,4 +24,5 @@ links:
     url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5517133/
     icon-pack: fas
     icon: book-open
+projects: [cancer-pros]
 ---

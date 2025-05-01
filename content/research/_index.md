@@ -20,9 +20,9 @@ sections:
       # Add your Hero text here
       text: |-
         <pre>
-        <hr style="border: 1px solid white; background-image: none; background-color: white; border-radius: 1pt">
-        
+        <hr style="border: 1px solid white; background-image: none; background-color: white; border-radius: 1pt">        
         </pre>
+        
     design:
       # Choose an optional background color, gradient, image, or video
       background:
@@ -31,8 +31,7 @@ sections:
             filters:
                 brightness: .45
             size: cover
-            position: left top
-            caption: "hey there"
+            position: top
         text_color_light: true
   
   - block: portfolio
@@ -42,7 +41,7 @@ sections:
       filters:
         folders:
           - project
-        exclude_tags: [software]
+        exclude_tags: [software, applied]
       buttons:
         - name: All
           tag: '*'
@@ -50,6 +49,29 @@ sections:
           tag: 'health policy'
         - name: Sequentially-Randomized Trials
           tag: 'SMARTs'
+    design:
+      view: 'showcase'
+      columns: '1'
+  
+  - block: portfolio
+    id: collab-projects
+    content:
+      title: Applied & Collaborative Projects
+      subtitle: Selected projects represent 
+      filters:
+        folders:
+          - project
+        exclude_tags: [software, methods]
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Health Policy
+          tag: 'health policy'
+        - name: Oncology
+          tag: 'cancer'
+    design:
+      view: showcase
+      columns: '1'
 
   - block: markdown
     content:

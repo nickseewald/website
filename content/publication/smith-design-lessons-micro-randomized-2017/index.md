@@ -15,5 +15,6 @@ abstract: "Micro-randomized trials (MRTs) offer promise for informing the develo
 featured: false
 publication: "*Mobile Health*"
 doi: "10.1007/978-3-319-51394-2_4"
+projects: ["heartsteps"]
 ---
 

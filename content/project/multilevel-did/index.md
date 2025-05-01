@@ -1,12 +1,13 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "SMARTs with Longitudinal Outcomes"
-summary: "Methods for the design and analysis of sequential, multiple-assignment randomized trials with continuous longitudinal outcomes."
+title: "Difference-in-Differences with Multilevel Data"
+summary: |
+  Health policy evaluations often use difference-in-differences to estimate effects. However, interesting practical questions arise when using this approach with multilevel administrative data.
 authors: [admin]
-tags: ["SMARTs", "DTRs", "methods"]
+tags: ["health policy", "methods"]
 categories: []
-# date: 2025-04-09T09:41:10-04:00
+date: 2025-04-17T20:23:21-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,7 +41,5 @@ url_video: ""
 slides: ""
 ---
 
-SMARTs are randomized trials in which some or all participants are randomized more than once, often with the
-goal of constructing a high-quality dynamic treatment regime (DTR). This work provides applied scientists with
-design tools needed to power a SMART when the primary goal is to compare two embedded DTRs on a continuous outcome
-collected over the course of multiple stages of randomization.
+Difference-in-differences compares changes in longitudinal outcome trajectories
+from before and after some exposure between exposed and unexposed units. 

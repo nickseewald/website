@@ -23,4 +23,5 @@ links:
     url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6401341/
     icon-pack: fas
     icon: book-open
+projects: ["heartsteps"]
 ---

@@ -23,7 +23,7 @@
 }
 
 .navbar-brand {
-    font-family: "Rock Salt";
+    font-family: "Rock Salt", cursive;
     font-weight: 400;
     font-style: normal;
 }
@@ -49,5 +49,5 @@ h1:not(.article-container > h1) {
 }
 
 .card .card-image.hover-overlay::after{
-    content: '\f105';
+    content: '\f002';
 }

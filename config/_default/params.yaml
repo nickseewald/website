@@ -9,7 +9,7 @@ appearance:
   theme_day: redblue
   theme_night: minimal
   # font: domine_dm_fonts
-  font: source_fonts
+  font: plex_fonts
   font_size: L
 
 # SEO

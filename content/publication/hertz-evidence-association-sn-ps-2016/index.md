@@ -12,6 +12,7 @@ featured: false
 publication: "*Pharmacogenomics*"
 #tags: ["Adult", "article", "breast cancer", "cancer patient", "cancer staging", "carbonyl reductase", "carbonyl reductase 3", "cardiotoxicity", "cell protein", "cohort analysis", "concentrative nucleoside transporter 3", "controlled study", "cross-sectional study", "DNA topoisomerase (ATP hydrolysing)", "DNA topoisomerase (ATP hydrolysing) beta", "doxorubicin", "echocardiography", "Female", "genetic analysis", "genetic association", "genotype", "heart ejection fraction", "human", "major clinical study", "multidrug resistance protein 1", "observational study", "pharmacogenetics", "protein NCF4", "Rac2 protein", "secondary analysis", "single nucleotide polymorphism", "systolic dysfunction", "unclassified drug"]
 tags: ["cancer", "collaboration", "masters"]
+projects: [cancer-biomarkers]
 doi: "10.2217/pgs.15.162"
 links:
   - name: PubMed

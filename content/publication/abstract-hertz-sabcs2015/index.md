@@ -45,6 +45,7 @@ summary: ""
 
 tags: [cancer]
 categories: [collaborations, abstracts]
+projects: [cancer-biomarkers]
 featured: false
 
 # Custom links (optional).

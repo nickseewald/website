@@ -37,22 +37,13 @@ sections:
     content: 
       title: Teaching Philosophy
       text: |-
-        > The best thing about being a statistician is that you get to play in everyone's backyard.
-        
-        The (probably overused) above quote from John Tukey captures not only what I love most about statistics, but also my approach to teaching undergraduate statistics. My teaching seeks to connect statistics to students' lives and interests, and I am focused on helping them understand the bigger picture of their work. In an introductory course, this involves having students work together and think deeply about what conclusions they can and cannot draw from their analyses, and the non-statistical impact those conclusions might have. Similarly, in an upper-level undergraduate data mining course, I encouraged students to think carefully about tradeoffs between model performance and interpretability, and brought in news stories highlighting ethical issues in data science.
-        
-        Over summer 2020, I worked with [Jack Miller, Ph.D.](https://lsa.umich.edu/stats/people/faculty/jackie-miller.html), to redesign the University of Michigan's introductory statistics course (STATS 250) to focus on simulation-based inference, and to move labs and other activities to more deeply integrate R via RStudio. Through this work, I'm able to make a strong impact on how we engage learners in statistics, and get them excited about a course they may have been told to fear. Concurrently, I am working with other graduate students at Michigan to develop a mentorship program for Graduate Student Instructors to focus on evidence-based and inclusive teaching strategies to better cultivate the next generation of statisticians.
+        > The best thing about being a statistician is that you get to play in everyone's backyard. &nbsp; &nbsp;  -John Tukey.
 
-        <div style="text-align: center;">
-        <a class="btn btn-primary btn-lg" style="color: #fff; margin-right:1em;" href="../files/seewaldTeachingStatement.pdf" target="_blank">
-            <i class="fas fa-download" style="padding-right: .5em;"></i>
-            Teaching Statement
-        </a>
-        <a class="btn btn-primary btn-lg" style="color: #fff; margin-left:1em;" href="../files/seewaldTeachingReviews.pdf" target="_blank">
-            <i class="fas fa-download" style="padding-right: .5em;"></i>
-            Selected Teaching Reviews
-        </a>
-        </div>
+        Statistics, at its core, is about communication. Ultimately, my job as a collaborative statistician is to convey a message from data to colleagues, partners, and patients. My primary goal in teaching is to train my students to engage in this process of communication: to understand how to glean knowledge from data and share that knowledge effectively.
+
+        I am a passionate and [award-winning](https://rackham.umich.edu/faculty-and-staff/awards/outstanding-graduate-student-instructor-awards/) statistics educator. My pedagogy focuses on developing and leveraging students' statistical intuition, rather than teaching a suite of procedures, so they are better equipped to enter a rapidly changing world of data science. To do this, I engage students in their own knowledge-building through active learning techniques, judiciously incorporate technology, and use low-stakes assessments encouraging trial and error.
+
+        I am committed to meeting students where they are and building biostatistical skills and interest appropriate for their academic goals. 
 
   - block: experience
     content:
@@ -177,4 +168,29 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
+
+  # - block: markdown
+  #   content: 
+  #     title: Other Teaching Activities
+  #     text: |-
+  #       ### Guest Lectures
+  #       - "Quasi-Experimental Designs"
+  #         - EPID 7020: Advanced Topics in Epidemiologic Research. University of Pennsylvania Graduate Group in Epidemiology and Biostatistics. Spring Semester 2025. Course Director: Ellen C. Caniglia, ScD.
+  #         - Penn Causal Inference Summer Institute 2024.
+  #       - "Difference-in-Differences with Variable Treatment Timing".
+  #         - Seminar on Statistical Methods for Mental Health.  Johns Hopkins Bloomberg School of Public Health. Term 3, Academic Year 2021-2. Course Instructor: Elizabeth A. Stuart, PhD.
+
+  #       ### Workshops
+  #       - "Introduction to Adaptive Interventions and Sequential Multiple Assignment Randomized Trials"
+  #         - Invited pre-conference workshop: Society of Behavioral Medicine Annual Meeting, Baltimore, MD. April 6, 2022. *Co-designer and facilitator with Ahnalee Brincks, Ph.D., and Shawna N. Smith, Ph.D.*
+  #       - "Building Just-in-Time Adaptive Interventions."
+  #         - Center for Dissemination and Implementation Science Summer Institute, University of Illinois Chicago. Virtual. October 25-26, 2021. *Small group expert facilitator*.
+  #       - "Using SMART Design in Responsive Survey Design"
+  #         - Responsive Survey Design: A Research Education Program. Institute for Social Research, University of Michigan. June 19, 2019. *Co-designer and facilitator with Ahnalee Brincks, Ph.D.*
+  #       - "Getting SMART about Adaptive Interventions in Education."
+  #         - University of Michigan. March 11-14, 2019. *Co-designer and facilitator with [d³lab](https://d3c.isr.umich.edu/)*.
+  #       - "Getting SMART: Experimental Design and Analysis Methods for Developing Adaptive Interventions". 
+  #         - University of California, San Francisco. May 19, 2015. *Co-Facilitator with Inbal Nahum-Shani, PhD.*
+  #       - "Experimental Design and Analysis Methods for Developing Adaptive Interventions: Getting SMART". 
+  #         - Methodology Center Summer Institute. Ann Arbor, MI. June 19-20, 2014. *Small group facilitator.*
 ---

@@ -9,6 +9,7 @@ featured: false
 publication: "*The Pharmacogenomics Journal*"
 doi: "10.1038/tpj.2016.60"
 tags: ["cancer", collaboration, masters]
+projects: [cancer-biomarkers]
 links:
   - name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5323433/

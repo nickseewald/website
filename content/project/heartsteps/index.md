@@ -1,12 +1,12 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "SMARTs with Longitudinal Outcomes"
-summary: "Methods for the design and analysis of sequential, multiple-assignment randomized trials with continuous longitudinal outcomes."
-authors: [admin]
-tags: ["SMARTs", "DTRs", "methods"]
+title: "HeartSteps"
+summary: "HeartSteps was the first-ever micro-randomized trial (MRT) designed to optimize a just-in-time adaptive intervention to increase physical activity among sedentary adults."
+authors: []
+tags: [applied, "physical activity"]
 categories: []
-# date: 2025-04-09T09:41:10-04:00
+date: 2025-04-25T13:34:33-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,7 +40,9 @@ url_video: ""
 slides: ""
 ---
 
-SMARTs are randomized trials in which some or all participants are randomized more than once, often with the
-goal of constructing a high-quality dynamic treatment regime (DTR). This work provides applied scientists with
-design tools needed to power a SMART when the primary goal is to compare two embedded DTRs on a continuous outcome
-collected over the course of multiple stages of randomization.
+HeartSteps was the first-ever micro-randomized trial (MRT) designed to optimize
+a just-in-time adaptive intervention to increase physical activity among
+sedentary adults. In collaboration with study PI [Predrag Klasnja,
+PhD](https://www.pedjaklasnja.com/) and [Susan A. Murphy,
+PhD](https://people.seas.harvard.edu/~samurphy/), I served as the trial's
+primary data analyst. 

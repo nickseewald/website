@@ -4,7 +4,7 @@
 title: "Policy Trial Emulation"
 summary: "An extention to the target trial emulation framework to include special considerations when designing high-quality non-experimental studies to evaluate health policy."
 authors: []
-tags: ["health policy"]
+tags: ["health policy", "methods"]
 categories: []
 date: 2025-04-09T09:08:22-04:00
 
