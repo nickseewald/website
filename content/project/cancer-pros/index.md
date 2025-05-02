@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-Patient-reported outcomes offer an important perspective in cancer care, particularly in regards to choosing a treatment. 
+Patient-reported outcomes offer an important perspective in cancer care, particularly in regards to choosing a treatment. This collaborative work, largely done while I was a masters student at the University of Michigan, investigates effects of treatment crossover on patient-reported outcomes and treatment discontinuation for breast cancer patients receiving adjuvant aromatase inhibitors.

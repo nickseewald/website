@@ -45,4 +45,4 @@ a just-in-time adaptive intervention to increase physical activity among
 sedentary adults. In collaboration with study PI [Predrag Klasnja,
 PhD](https://www.pedjaklasnja.com/) and [Susan A. Murphy,
 PhD](https://people.seas.harvard.edu/~samurphy/), I served as the trial's
-primary data analyst. 
+primary data analyst, and developed guidance for automating research-grade data for micro-ranodmized trials.
