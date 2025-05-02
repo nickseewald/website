@@ -71,7 +71,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [sud-policy]
 ---
 {{% callout note %}}
 My travel to ACIC 2022 was generously supported by a Junior Researcher Travel Grant from the National Science Foundation, awarded to Duke University.
