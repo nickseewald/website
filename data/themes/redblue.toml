@@ -1,0 +1,32 @@
+# https://coolors.co/palette/2b2d42-8d99ae-edf2f4-ef233c-d90429
+name = "Coolers Red Blue"
+
+[light]
+  # Primary
+  primary = "#2B2D42"
+
+  # Menu
+  menu_primary = "#2B2D42"
+  menu_text = "#EDF2F4"
+  menu_text_active = "#edf2f4"
+  menu_title = "#EDF2F4"
+
+  # Home sections
+  background = "#F7F7F7"
+  home_section_odd = "#F7F7F7"
+  home_section_even = "#F7F7F7"
+
+  link = "#C30324"
+  link_hover = "#D90429"
+
+[dark]
+  # Primary
+  primary = "#8d99ae"
+  background = "#2b2d42"
+  menu_primary = "#2B2D42"
+  menu_text = "#8d99ae"
+  menu_title = "#8d99ae"
+  menu_text_active = "#d90429"
+
+  link = "#8d99ae"
+  link_hover = "#d90429"

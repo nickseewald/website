@@ -27,6 +27,7 @@ publishDate: 2022-11-09T14:43:54-05:00
 
 authors: [Nicholas J. Seewald]
 tags: [postdoc, policy evaluation]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false

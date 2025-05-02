@@ -25,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2021-10-22T15:27:50-04:00
 
-authors: [Nicholas J. Seewald]
+authors: [admin]
 tags: [SMARTs, DTRs]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -45,7 +46,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/talk-urmc-2021/index.html#1
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides: 

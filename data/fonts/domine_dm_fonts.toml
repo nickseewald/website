@@ -2,10 +2,10 @@
 name = "domineDM"
 
 # Optional Google font URL
-google_fonts = "family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Domine:wght@400..700"
+google_fonts = "family=DM+Serif+Display:ital@0;1&DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Domine:wght@400..700&family=Caveat:wght@400..700"
 
 # Font families
-heading_font = "Domine"
-body_font = "DM Sans"
+heading_font = "DM Serif Display"
+body_font = "Rock Salt"
 nav_font = "DM Sans"
 mono_font = "DM Mono"

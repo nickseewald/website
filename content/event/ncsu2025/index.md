@@ -25,8 +25,9 @@ all_day: true
 # Schedule page publish date (NOT event date).
 publishDate: 2025-04-02T00:00:00-04:00
 
-authors: [Nicholas J. Seewald]
-tags: []
+authors: [admin]
+tags: [policy evaluation]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -70,5 +71,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["policy-trial-emulation"]
 ---

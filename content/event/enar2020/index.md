@@ -19,8 +19,9 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-08-01T18:47:26-04:00
 
-authors: [Nicholas J. Seewald, Daniel Almirall]
-tags: []
+authors: [admin, Daniel Almirall]
+tags: [SMARTs, DTRs]
+categories: [contributed talks]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -39,7 +40,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/enar2020.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 
@@ -60,5 +61,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["smart-longitudinal"]
 ---

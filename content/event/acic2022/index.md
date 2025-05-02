@@ -25,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-05-01T00:00:00-04:00
 
-authors: [Nicholas J. Seewald, Beth McGinty, Elizabeth A. Stuart]
+authors: [admin, Beth McGinty, Elizabeth A. Stuart]
 tags: [Policy Evaluation, Postdoc]
+categories: [contributed talks]
 
 # Is this a featured event? (true/false)
 featured: true
@@ -45,7 +46,7 @@ links:
   - name: Slides
     url: https://slides.nickseewald.com/acic2022.pdf
     icon_pack: fas
-    icon: users
+    icon: person-chalkboard
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
@@ -70,7 +71,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [sud-policy]
 ---
 {{% callout note %}}
 My travel to ACIC 2022 was generously supported by a Junior Researcher Travel Grant from the National Science Foundation, awarded to Duke University.

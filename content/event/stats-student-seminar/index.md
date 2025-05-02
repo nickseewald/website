@@ -25,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-07-26T20:52:03-04:00
 
-authors: [Nicholas J. Seewald, Daniel Almirall, Kelley M. Kidwell]
-tags: [SMARTs, DTRs]
+authors: [admin, Daniel Almirall, Kelley M. Kidwell]
+tags: [SMARTs, DTRs, masters]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -45,7 +46,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/stats-student-seminar2015.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:

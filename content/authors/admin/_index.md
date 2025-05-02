@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nick Seewald
+title: Nicholas J. Seewald
 
 # Username (this should match the folder name)
 authors:
@@ -12,10 +12,12 @@ superuser: true
 highlight_name: true
 
 # Role/position
-role: Assistant Professor<br />Department of Biostatistics, Epidemiology, and Informatics
+role: Assistant Professor of Biostatistics
 
 # Organizations/Affiliations
 organizations:
+- name: Department of Biostatistics, Epidemiology, and Informatics
+  url: "https://dbei.med.upenn.edu/"
 - name: University of Pennsylvania Perelman School of Medicine
   url: "https://www.med.upenn.edu/"
 
@@ -52,10 +54,10 @@ bio: "Assistant Professor of Biostatistics at the University of Pennsyvlania Per
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-# - icon: bluesky-brands-solid
-#   icon_pack: custom
-#   link: https://twitter.com/nickseewald
+  link: '#home_contact'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8367-0522
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3H0zYrYAAAAJ
@@ -66,7 +68,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/seewaldCV.pdf
+  link: https://raw.githubusercontent.com/nickseewald/seewaldCV/main/Seewald-Curriculum-Vitae.pdf
   target: _blank
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -75,8 +77,10 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
+<h1>Hi, I'm Nick.</h1>
+
 #### I am a collaborative biostatistician who builds tools to enable high quality, impactful science. 
 
 I develop methods and collaborations that create knowledge to improve human health.
@@ -96,4 +100,4 @@ statistical issues in the use of multilevel data for health policy evaluation.
 
 
 <!-- <a class="btn btn-outline-primary btn-lg" href="about">hi</a> -->
-<a class="btn btn-outline-primary btn-lg" href="about">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>
+<a class="btn btn-outline-primary btn-lg" href="research">Learn More<i class="fas fa-arrow-right" style="padding-left: 0.7em;"></i> </a>

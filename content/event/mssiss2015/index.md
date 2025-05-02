@@ -25,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-07-26T16:44:34-04:00
 
-authors: [Nicholas J. Seewald, Daniel Almirall, Kelley M. Kidwell]
-tags: [SMARTs]
+authors: [admin, Daniel Almirall, Kelley M. Kidwell]
+tags: [SMARTs, DTRs, masters]
+categories: [posters]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -67,7 +68,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["SMARTsize"]
 ---
 
 {{% callout note %}}

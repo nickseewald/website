@@ -25,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2025-04-01T19:29:13-04:00
 
-authors: [Nicholas J. Seewald]
+authors: [admin]
 tags: [causal inference, policy evaluation, postdoc]
+categories: [contributed talks]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -45,7 +46,7 @@ links:
   - name: Slides
     url: https://slides.nickseewald.com/acic2024.pdf
     icon_pack: fas
-    icon: users
+    icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
@@ -66,5 +67,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [multilevel-did]
 ---

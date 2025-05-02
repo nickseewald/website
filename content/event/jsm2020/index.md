@@ -25,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-07-26T13:00:24-04:00
 
-authors: ["Nicholas J. Seewald", "Daniel Almirall"]
-tags: ["SMARTs", "DTRs", "sample size", "dissertation"]
+authors: [admin, "Daniel Almirall"]
+tags: ["SMARTs", "DTRs", "sample size", "PhD"]
+categories: [contributed talks]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -45,7 +46,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/jsm2020.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 - name: Video
   url: https://youtu.be/226_F37zFzw
   icon_pack: fab
@@ -74,7 +75,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["smart-longitudinal"]
 ---
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/226_F37zFzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen"></iframe></div>

@@ -3,7 +3,7 @@
 
 title: "Handling Correlation in Stacked Difference-in-Differences Estimates with Application to Medical Cannabis Policy"
 event: "American Causal Inference Conference 2023"
-event_url: https://sci-info.org/annual-meeting/
+event_url: https://sci-info.org/past-related-events/
 location: "Austin, TX, USA"
 address:
   street:
@@ -12,22 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: "Health policy researchers often have questions about the effects of state policy on individual-level
-outcomes collected over multiple time periods. In some cases, these studies are conducted using
-large-scale, individual-level administrative data such as health insurance claims. However, there are
-multiple open questions about the use of such individual-level data in difference-in-differences (DiD)
-analyses. “Stacked” DiD is one approach to estimate treatment effects when units implement the
-policy of interest at different times: for each unit enacting a policy, we construct a comparison group
-of units that never enact (or had not yet enacted) the policy, analyze each treated unit separately
-with its comparison group, then pool effect estimates. However, when individual-level data is
-available, some individuals in untreated units can contribute to comparison groups for multiple
-treated states, producing correlation between stacked estimates. Existing methods do not quantify
-or account for this sharing of controls: this leads to incorrect inference. Here, we present a
-framework for estimating and managing this correlation when pooling stacked effect estimates. We
-explore the statistical properties of this approach, examine its performance in realistic simulations
-and with real data, and explain its occasionally counterintuitive effects on variance estimates. This is
-motivated by a study investigating the effects of state medical cannabis laws on opioid prescribing
-for pain."
+abstract: "Health policy researchers often have questions about the effects of state policy on individual-level outcomes collected over multiple time periods. In some cases, these studies are conducted using large-scale, individual-level administrative data such as health insurance claims. However, there are multiple open questions about the use of such individual-level data in difference-in-differences (DiD) analyses. “Stacked” DiD is one approach to estimate treatment effects when units implement the policy of interest at different times: for each unit enacting a policy, we construct a comparison group of units that never enact (or had not yet enacted) the policy, analyze each treated unit separately with its comparison group, then pool effect estimates. However, when individual-level data is available, some individuals in untreated units can contribute to comparison groups for multiple treated states, producing correlation between stacked estimates. Existing methods do not quantify or account for this sharing of controls: this leads to incorrect inference. Here, we present a framework for estimating and managing this correlation when pooling stacked effect estimates. We explore the statistical properties of this approach, examine its performance in realistic simulations and with real data, and explain its occasionally counterintuitive effects on variance estimates. This is motivated by a study investigating the effects of state medical cannabis laws on opioid prescribing for pain."
 
 slug: acic2023
 
@@ -40,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2023-05-24T07:04:54-05:00
 
-authors: [Nicholas J. Seewald, Beth McGinty, Kayla Tormohlen, Elizabeth A. Stuart]
-tags: [postdoc, health policy]
+authors: [admin, Beth McGinty, Kayla Tormohlen, Elizabeth A. Stuart]
+tags: [postdoc, policy evaluation]
+categories: [contributed talks]
 
 # Is this a featured event? (true/false)
 featured: true
@@ -60,7 +46,7 @@ links:
   - name: Slides
     url: https://slides.nickseewald.com/acic2023.pdf
     icon_pack: fas
-    icon: users
+    icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
@@ -81,5 +67,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [multilevel-did]
 ---

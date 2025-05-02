@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Target Trials in Policy Evaluation: A Case Study in Medical Cannabis 
-Laws"
+title: "Target Trials in Policy Evaluation: A Case Study in Medical Cannabis Laws"
 event: "Society for Epidemiologic Research Annual Meeting 2023"
 event_url: https://epiresearch.org/annual-meeting/2023-meeting/
 location: Portland, OR, USA
@@ -26,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2023-06-12T18:15:29-04:00
 
-authors: [Nicholas J. Seewald, Beth McGinty, Elizabeth A. Stuart]
+authors: [admin, Beth McGinty, Elizabeth A. Stuart]
 tags: [Postdoc, Policy Evaluation]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: true
@@ -52,7 +52,7 @@ links:
   - name: Slides
     url: https://slides.nickseewald.com/ser2023.pdf
     icon_pack: fas
-    icon: users
+    icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 # url_slides:
@@ -73,7 +73,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [policy-trial-emulation]
 ---
 {{% callout note %}}
 My travel to SER 2023 was generously supported by a travel grant from the Society.

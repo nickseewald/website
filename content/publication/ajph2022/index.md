@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Adaptive Interventions for a Dynamic and Responsive Public Health Approach"
-authors: ["Nicholas J. Seewald"]
+authors: [admin]
 date: 2023-01-14T13:43:59-05:00
 doi: "jqkz"
 
@@ -67,4 +67,6 @@ slides: ""
 links:
   - name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/36516392/
+    icon_pack: fas
+    icon: book-open
 ---

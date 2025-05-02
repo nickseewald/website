@@ -7,7 +7,7 @@ title: Shared Control Individuals in Health Policy Evaluations with Application 
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Nicholas J. Seewald
+- admin
 - Emma E. McGinty
 - Kayla Tormohlen
 - Ian Schmid
@@ -25,7 +25,7 @@ publishDate: '2023-12-01T19:51:06.839238Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- manuscript
+- article
 
 # Publication name and optional abbreviated publication name.
 publication: '*arXiv*'
@@ -86,8 +86,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [multilevel-did]
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2311.18093
+  icon_pack: ai
+  icon: arxiv
 ---

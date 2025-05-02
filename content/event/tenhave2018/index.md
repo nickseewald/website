@@ -25,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-07-26T21:06:55-04:00
 
-authors: [Nicholas J. Seewald, Kelley M. Kidwell, Inbal Nahum-Shani, Tianshuang Wu, James R. McKay, Daniel Almirall]
-tags: [SMARTs, DTRs]
+authors: [admin, Kelley M. Kidwell, Inbal Nahum-Shani, Tianshuang Wu, James R. McKay, Daniel Almirall]
+tags: [SMARTs, DTRs, PhD]
+categories: 
 
 # Is this a featured event? (true/false)
 featured: false
@@ -66,5 +67,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["smart-longitudinal"]
 ---

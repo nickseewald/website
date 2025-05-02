@@ -10,20 +10,26 @@ main:
   - name: About
     url: 'about'
     weight: 20
+  - name: Research
+    url: 'research'
+    weight: 25
   - name: Publications
-    url: '#publications'
+    url: 'publication'
     weight: 30
   - name: Talks
-    url: '#talks'
+    url: 'event'
     weight: 40
+  - name: People
+    url: 'people'
+    weight: 45
   - name: Teaching
     url: 'teaching'
     weight: 50
   - name: Software
-    url: '#software'
+    url: '#home_software'
     weight: 60
   - name: Contact
-    url: '#contact'
+    url: '#home_contact'
     weight: 70
 
 # Link to a PDF of your resume/CV from the menu.

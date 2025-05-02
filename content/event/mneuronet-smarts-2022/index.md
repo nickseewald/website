@@ -25,8 +25,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2022-03-11T10:21:40-05:00
 
-authors: [Nicholas J. Seewald]
+authors: [admin]
 tags: [SMARTs, DTRs]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -45,7 +46,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/talk-mneuronet-2022/index.html#1
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:

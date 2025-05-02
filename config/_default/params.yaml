@@ -6,9 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: bluegray
+  theme_day: redblue
   theme_night: minimal
-  font: domine_dm_fonts
+  # font: domine_dm_fonts
+  font: plex_fonts
   font_size: L
 
 # SEO
@@ -31,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true

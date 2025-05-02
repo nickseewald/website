@@ -5,7 +5,7 @@ title: "Effects of U.S. State Medical Cannabis Laws on Treatment of Chronic Nonc
 authors: 
   - Emma E. McGinty
   - Kayla N. Tormohlen
-  - Nicholas J. Seewald
+  - admin
   - Mark C. Bicket
   - Alexander D. McCourt
   - Lainie Rutkow
@@ -28,7 +28,7 @@ publication: "Annals of Internal Medicine"
 publication_short: "Ann Intern Med"
 
 abstract: |
-  <strong>Background:</strong> 
+  **Background**:
   State medical cannabis laws may lead patients with chronic noncancer pain to substitute cannabis in place of prescription opioid or clinical guideline–concordant nonopioid prescription pain medications or procedures. <br>
   <strong>Objective:</strong>
   To assess effects of state medical cannabis laws on receipt of prescription opioids, nonopioid prescription pain medications, and procedures for chronic noncancer pain. <br>
@@ -87,7 +87,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [sud-policy]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

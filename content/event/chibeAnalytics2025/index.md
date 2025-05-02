@@ -5,7 +5,7 @@ title: "Target Trial Emulation for Evaluating Health Policy"
 event: "HP/CHIBE Analytics Lunch Seminar"
 event_url:
 location: "Virtual"
-summary:
+summary: An invited virtual seminar for the University of Pennsylvania Health Policy / Center for Health Initiatives and Behavioral Economics analytics group.
 abstract:
 
 # Talk start and end times.
@@ -17,8 +17,9 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2025-01-21T09:41:20-05:00
 
-authors: [Nicholas J. Seewald]
+authors: [admin]
 tags: [policy evaluation]
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -37,7 +38,7 @@ links:
 - name: Slides
   url: https://slides.nickseewald.com/chibeAnalytics2025.pdf
   icon_pack: fas
-  icon: users
+  icon: person-chalkboard
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
 
@@ -57,5 +58,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [policy-trial-emulation]
 ---
