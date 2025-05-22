@@ -14,7 +14,7 @@ sections:
       slides:
         - title: New Webinar
           content: |
-            Watch my webinar on **Target Trial Emulation for Evaluating Mental Health Policy** for the [Johns Hopkins ALACRITY Center for Health & Longevity in Mental Illness](https://publichealth.jhu.edu/alacrity-center-for-health-and-longevity-in-mental-illness)
+            Watch my webinar on [**Target Trial Emulation for Evaluating Mental Health Policy**](talks/alacrity-methods-2025/) for the [Johns Hopkins ALACRITY Center for Health & Longevity in Mental Illness](https://publichealth.jhu.edu/alacrity-center-for-health-and-longevity-in-mental-illness)
           align: center
           background:
             image:
@@ -32,16 +32,20 @@ sections:
             url: "https://www.youtube.com/watch?v=DAXfp8X9ba8"
         - title: New Webinar
           content: |
-            Watch the first hour of my seminar "SMART Designs for Developing Adaptive Interventions" with [Statistical Horizons](https://www.statisticalhorizons.com).
+            Watch the first hour of my seminar **SMART Designs for Developing Adaptive Interventions** with [Statistical Horizons](https://www.statisticalhorizons.com).
           align: center
           background:
-            position: right
-            color: '#8D99AE'
+            image:
+              filename: statHorizonsBackground.png
+              fit: contain
+              filters:
+                brightness: 0.5
+                blur: '1rem'
           link:
             icon: youtube
             icon_pack: fab
             text: Watch now!
-            url: https://www.youtube.com/watch?v=DAXfp8X9ba8
+            url: https://youtu.be/UFABO4oqNGs?si=KGvn7mh4myZkZrHK
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '500px'
@@ -50,7 +54,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 5000
 
   - block: collection
     id: home_pubs

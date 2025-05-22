@@ -73,10 +73,10 @@ sections:
           description: |-
             A 4-day synchronous virtual seminar series on designing and
             analyzing sequential, multiple-assignment, randomized trials to build
-            effective adaptive interventions.
+            effective adaptive interventions. Watch the first hour of the 2024 seminar on [YouTube](https://www.youtube.com/watch?v=UFABO4oqNGs)!
 
             *Next session begins July 8, 2025.* 
-            Register [here](https://statisticalhorizons.com/seminars/smart-designs-for-developing-adaptive-interventions/).
+            Register [here](https://statisticalhorizons.com/seminars/smart-designs-for-developing-adaptive-interventions/). 
         - title: Seminar on Statistical Methods for Mental Health
           company: Johns Hopkins Bloomberg School of Public Health
           company_logo: bsph

@@ -16,21 +16,21 @@
     color: #f8f8f2;
     border-bottom: solid 1px transparent; }
 
-.dark  .section-subheading a {
+.dark a {
     color: #f8f8f2;
     border-bottom: solid 1px transparent; }
 
-.section-subsubheading a {
-    color: #2B2D42;
-}
+// .section-subsubheading a {
+//     color: #2B2D42;
+// }
 
 .dark .btn.btn-sm, .btn-group-sm > .btn {
     border-color: #afd0eb;
   }
 
-  .dark .btn-primary, .dark .btn.btn-primary.active {
+.dark .btn-primary, .dark .btn.btn-primary.active {
     color: inherit;
-  }
+}
 
 // .dark .experience .m-2 .border, .experience .col.border-right {
 //     border-color: #f8f8f2 !important;
