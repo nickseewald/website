@@ -19,5 +19,5 @@ links:
     url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6713230/
     icon_pack: fas
     icon: book-open
-projects: ["heartsteps"]
+projects: ["digital-health"]
 ---

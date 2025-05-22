@@ -12,7 +12,7 @@ superuser: false
 underline_name: true
 
 # Role/position
-role: Biostatistics PhD Student
+role: Biostatistics PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -20,30 +20,22 @@ organizations:
   url: "https://www.med.upenn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "PhD Student in Biostatistics at the University of Pennsyvlania Perelman School of Medicine"
+bio: "PhD Candidate in Biostatistics at the University of Pennsyvlania Perelman School of Medicine"
 
-# interests:
-# - Causal Inference
-# - Complex Longitudinal Data
-# - Health Policy Evaluation
-# - Dynamic Treatment Regimens
-# - Sequential, Multiple-Assignment Randomized Trials
-# - Expermental and Non-Experimental Study Design
+interests:
+- Mobile health
+- Change point detection
+- Multiple testing
+- SMART designs
 
-# education:
-#   courses:
-#   - course: PhD in Statistics
-#     institution: University of Michigan
-#     year: 2021
-#   - course: MA in Statistics
-#     institution: University of Michigan
-#     year: 2018
-#   - course: MS in Biostatistics
-#     institution: University of Michigan
-#     year: 2015
-#   - course: BS in Mathematics
-#     institution: University of Notre Dame
-#     year: 2013
+education:
+  courses:
+  - course: MS in Biostatistics
+    institution: University of Pennsylvania
+    year: 2020
+  - course: BA in Mathematics, Specialization in Statistics; Minor in Psychology
+    institution: The College of New Jersey
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,9 +45,6 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-8631-5596
-# # - icon: bluesky-brands-solid
-# #   icon_pack: custom
-# #   link: https://twitter.com/nickseewald
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=ZKugvewAAAAJ

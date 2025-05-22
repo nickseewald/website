@@ -43,3 +43,4 @@ slides: ""
 
 Difference-in-differences compares changes in longitudinal outcome trajectories
 from before and after some exposure between exposed and unexposed units. 
+Oftentimes, in health policy application, data is sourced from existing administrative databases (e.g., health insurance claims) that have multilevel structures. This work investigates practical analytic challenges and opportunities that arise because of that multilevel data structure.

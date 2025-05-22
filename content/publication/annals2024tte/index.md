@@ -48,6 +48,12 @@ url_slides:
 url_source:
 url_video:
 
+links:
+  - name: PubMed
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11817613/
+    icon-pack: fas
+    icon: book-open
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
