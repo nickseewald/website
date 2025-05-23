@@ -8,6 +8,53 @@ sections:
     content:
     #   title: Hi, I'm Nick.
       username: admin
+  
+  - block: slider
+    content:
+      slides:
+        - title: New Webinar
+          content: |
+            Watch my webinar on [**Target Trial Emulation for Evaluating Mental Health Policy**](talks/alacrity-methods-2025/) for the [Johns Hopkins ALACRITY Center for Health & Longevity in Mental Illness](https://publichealth.jhu.edu/alacrity-center-for-health-and-longevity-in-mental-illness)
+          align: center
+          background:
+            image:
+              filename: alacrityBackground.png
+              fit: contain
+              filters:
+                brightness: 0.5
+                blur: '1rem'
+            position: right
+            color: '#8D99AE'
+          link:
+            icon: youtube
+            icon_pack: fab
+            text: Watch now!
+            url: "https://www.youtube.com/watch?v=DAXfp8X9ba8"
+        - title: New Webinar
+          content: |
+            Watch the first hour of my seminar **SMART Designs for Developing Adaptive Interventions** with [Statistical Horizons](https://www.statisticalhorizons.com).
+          align: center
+          background:
+            image:
+              filename: statHorizonsBackground.png
+              fit: contain
+              filters:
+                brightness: 0.5
+                blur: '1rem'
+          link:
+            icon: youtube
+            icon_pack: fab
+            text: Watch now!
+            url: https://youtu.be/UFABO4oqNGs?si=KGvn7mh4myZkZrHK
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '500px'
+      # Make the slides full screen within the browser window?
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 5000
 
   - block: collection
     id: home_pubs

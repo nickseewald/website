@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=DM+Serif+Display:ital@0;1&family=Permanent+Marker&family=Rock+Salt&display=swap');
 
+@font-face {
+    font-family: "Nick Font";
+    src: url('/fonts/Nickfont2-Regular.otf');
+}
+
 .article-metadata .author-underlined {
     text-decoration: underline; }
 
@@ -7,9 +12,29 @@
     font-size: 1.15rem;
 }
 
-.section-subsubheading a {
-    color: #2B2D42;
+.dark .card .section-subheading a {
+    color: #f8f8f2;
+    border-bottom: solid 1px transparent; }
+
+.dark a {
+    color: #f8f8f2;
+    border-bottom: solid 1px transparent; }
+
+// .section-subsubheading a {
+//     color: #2B2D42;
+// }
+
+.dark .btn.btn-sm, .btn-group-sm > .btn {
+    border-color: #afd0eb;
+  }
+
+.dark .btn-primary, .dark .btn.btn-primary.active {
+    color: inherit;
 }
+
+// .dark .experience .m-2 .border, .experience .col.border-right {
+//     border-color: #f8f8f2 !important;
+//   }
 
 // Adjust spacing for people widget
 .people-widget .mb-4 {
@@ -24,14 +49,17 @@
 
 .navbar-brand {
     font-family: "Rock Salt", cursive;
+    // font-family: "Nick Font";
     font-weight: 400;
     font-style: normal;
 }
 
 h1:not(.article-container > h1) {
     font-family: "Rock Salt", cursive;
+    // font-family: "Nick Font";
     font-weight: 400;
     font-style: normal;
+    font-size-adjust: .9;
 }
 
 .article-container h1 {

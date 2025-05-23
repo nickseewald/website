@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT event date).
 publishDate: 2025-03-21T10:21:46-04:00
 
-authors: [Nicholas J. Seewald]
+authors: [admin]
 tags: [policy evaluation]
 categories: [invited talks]
 

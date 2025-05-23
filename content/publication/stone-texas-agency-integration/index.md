@@ -38,11 +38,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: PubMed
+  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11703680/
+  icon_pack: fas
+  icon: book-open
 
 url_pdf:
 url_code:
