@@ -67,7 +67,7 @@ sections:
     id: collab-projects
     content:
       title: Applied & Collaborative Projects
-      subtitle: Selected projects represent 
+      subtitle: Selected projects give a high-level overview of my applied work, interests, and expertise, but I'm always open to learning something new.
       filters:
         folders:
           - project
