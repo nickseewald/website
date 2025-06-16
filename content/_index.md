@@ -87,7 +87,7 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '2'
+      columns: '1'
 
   - block: collection
     id: home_talks
@@ -119,7 +119,7 @@ sections:
       # Choose a listing view
       view: compact
       # Choose single or dual column layout
-      columns: '2'
+      columns: '1'
 
 
   - block: portfolio
@@ -144,7 +144,7 @@ sections:
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       # Choose a listing view
       view: showcase
       # For Showcase view, flip alternate rows?
@@ -172,5 +172,5 @@ sections:
         latitude: "39.94862488310947"
         longitude: "-75.19739135929261"
     design:
-      columns: "2"
+      columns: "1"
 ---
