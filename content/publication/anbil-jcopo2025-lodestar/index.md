@@ -16,7 +16,7 @@ authors:
   - Lara Maloney
   - Karen McLachlan
   - Hanna Tukachinsky
-  - Alexa B Schrock
+  - Alexa B. Schrock
   - Shuoguo Wang
   - Ethan S. Sokol
   - Brennan Decker
