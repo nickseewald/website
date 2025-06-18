@@ -1,31 +1,59 @@
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=DM+Serif+Display:ital@0;1&family=Permanent+Marker&family=Rock+Salt&display=swap');
 
-@font-face {
-    font-family: "Nick Font";
-    src: url('/fonts/Nickfont2-Regular.otf');
-}
+// @font-face {
+//     font-family: "Nick Font";
+//     src: url('/fonts/Nickfont2-Regular.otf');
+// }
 
 .article-metadata .author-underlined {
-    text-decoration: underline; }
+    text-decoration: underline; 
+}
 
 .section-subsubheading {
     font-size: 1.15rem;
 }
 
-.dark .card .section-subheading a {
-    color: #f8f8f2;
+.view-list .section-subheading a{
+    color: black;
+}
+
+.btn-links > .btn {
+    border-color: $sta-link;
+    color: $sta-link;
+    border-width: 1px;
+  }
+
+.btn-links .btn-outline-primary:hover {
+    background-color: $sta-link-hover;
+    border-color: $sta-link-hover;
+    color: $sta-background;
+}
+
+.dark .btn-links .btn-outline-primary:hover {
+    background-color: $sta-dark-link-hover;
+    border-color: $sta-dark-link-hover;
+    color: $sta-dark-background;
+}
+
+.dark .view-list .section-subheading a {
+    color: white;
     border-bottom: solid 1px transparent; }
 
+.dark .article-style {
+    color: white;
+}
+
 .dark a {
-    color: #f8f8f2;
+    color: $sta-dark-link;
     border-bottom: solid 1px transparent; }
 
 // .section-subsubheading a {
 //     color: #2B2D42;
 // }
 
-.dark .btn.btn-sm, .btn-group-sm > .btn {
-    border-color: #afd0eb;
+.dark .btn-links > .btn {
+    border-color: $sta-dark-link;
+    color: $sta-dark-link;
   }
 
 .dark .btn-primary, .dark .btn.btn-primary.active {
