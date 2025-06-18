@@ -5,6 +5,7 @@ title: "Use of Life Support and Outcomes Among Patients Admitted to Intensive Ca
 authors: [moin, admin, Scott D. Halpern]
 date: 2025-04-14T09:20:52-04:00
 doi: "pg4w"
+pubmed: "40227733"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-04-14T12:00:00-04:00
@@ -45,10 +46,10 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+# - name: PubMed
+#   url: https://pubmed.ncbi.nlm.nih.gov/40227733/
+#   icon_pack: ai
+#   icon: pubmed
 
 url_pdf:
 url_code:

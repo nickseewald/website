@@ -51,11 +51,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
-
+url_slides: alacrityMethods2025.pdf
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=DAXfp8X9ba8
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

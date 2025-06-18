@@ -19,10 +19,6 @@ featured: false
 publication: "*Breast Cancer Research and Treatment*"
 doi: "10.1007/S10549-017-4260-2"
 tags: ["cancer", collaboration, masters]
-links:
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5517133/
-    icon-pack: fas
-    icon: book-open
+pubmed: "28451964"
 projects: [cancer-pros]
 ---

@@ -5,6 +5,7 @@ title: "Adaptive Interventions for a Dynamic and Responsive Public Health Approa
 authors: [admin]
 date: 2023-01-14T13:43:59-05:00
 doi: "jqkz"
+pubmed: "36516392"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-12-14T13:43:59-05:00
@@ -64,9 +65,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 
-links:
-  - name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/36516392/
-    icon_pack: fas
-    icon: book-open
+# links:
+#   - name: PubMed
+#     url: https://pubmed.ncbi.nlm.nih.gov/36516392/
+#     icon-pack: ai
+#     icon: pubmed
 ---

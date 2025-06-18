@@ -36,14 +36,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Slides
-  url: https://slides.nickseewald.com/enar2020.pdf
-  icon_pack: fas
-  icon: person-chalkboard
+# links:
+# - name: Slides
+#   url: https://slides.nickseewald.com/
+#   icon_pack: fas
+#   icon: person-chalkboard
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: 
+url_slides: enar2020.pdf
 
 url_code:
 url_pdf:

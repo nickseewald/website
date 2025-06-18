@@ -4,7 +4,7 @@
 title: "Development and Validation of a Simple Model to Predict Patient Height"
 authors: [moin, admin, Scott D. Halpern]
 date: 2025-03-13T00:00:00-04:00
-doi: "10.1101/2025.03.12.25323846 "
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-04-09T10:51:19-04:00
@@ -37,11 +37,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: medRxiv
+  url: https://www.medrxiv.org/content/10.1101/2025.03.12.25323846v1
+  icon_pack: ai
+  icon: biorxiv
 
 url_pdf:
 url_code:

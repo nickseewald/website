@@ -42,14 +42,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Slides
-  url: https://slides.nickseewald.com/alacrityRIP.pdf
-  icon_pack: fas
-  icon: users
+# links:
+# - name: Slides
+#   url: 
+#   icon_pack: fas
+#   icon: users
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: https://slides.nickseewald.com/alacrityRIP.pdf
 
 url_code:
 url_pdf:

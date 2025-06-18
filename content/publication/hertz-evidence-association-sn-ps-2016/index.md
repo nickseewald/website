@@ -14,9 +14,5 @@ publication: "*Pharmacogenomics*"
 tags: ["cancer", "collaboration", "masters"]
 projects: [cancer-biomarkers]
 doi: "10.2217/pgs.15.162"
-links:
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5558515/
-    icon-pack: fas
-    icon: book-open
+pubmed: "26799497"
 ---

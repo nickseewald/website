@@ -9,9 +9,5 @@ featured: false
 publication: "*Journal of Applied Statistics*"
 doi: "10.1080/02664763.2017.1386773"
 tags: ["SMARTs", "DTRs", "sample size", "masters"]
-links:
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6290910/
-    icon-pack: fas
-    icon: book-open
+pubmed: "30555200"
 ---

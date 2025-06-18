@@ -1,8 +1,16 @@
 ---
 title: "Effects of State Opioid Prescribing Laws on Use of Opioid and Other Pain Treatments Among Commercially Insured U.S. Adults"
-authors: ["Emma E. McGinty", "Mark C. Bicket", admin, "Elizabeth A. Stuart", "G. Caleb Alexander", "Colleen L. Barry", "Alexander D. McCourt"]
+authors: 
+  - Emma E. McGinty
+  - Mark C. Bicket
+  - admin
+  - Elizabeth A. Stuart
+  - G. Caleb Alexander
+  - Colleen L. Barry
+  - Alexander D. McCourt
 date: 2022-03-15T00:00:00-04:00
 doi: "10.7326/M21-4363"
+pubmed: "35286141"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-08-16T09:14:17-04:00
@@ -57,18 +65,14 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: PubMed
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9277518/
-  icon_pack: fas
-  icon: book-open
-- name: Code
-  url: https://github.com/nickseewald/opioid-prescribing-augsynth
-  icon_pack: fas
-  icon: computer
+# links:
+# - name: PubMed
+#   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9277518/
+#   icon-pack: ai
+#   icon: pubmed
 
 url_pdf:
-url_code: 
+url_code: https://github.com/nickseewald/opioid-prescribing-augsynth
 url_dataset:
 url_poster:
 url_project:

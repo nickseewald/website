@@ -48,14 +48,14 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-links:
-  - name: Slides
-    url: https://slides.nickseewald.com/ser2023.pdf
-    icon_pack: fas
-    icon: person-chalkboard
+# links:
+#   - name: Slides
+#     url: https://slides.nickseewald.com/
+#     icon_pack: fas
+#     icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
-# url_slides:
+url_slides: ser2023.pdf
 
 # url_code:
 # url_pdf:

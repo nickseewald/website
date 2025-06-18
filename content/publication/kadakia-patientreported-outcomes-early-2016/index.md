@@ -19,10 +19,6 @@ publication: "*The Oncologist*"
 #tags: ["[Aromatase inhibitors", "Aromatase inhibitors", "Early discontinuation", "Pati", "Patient-reported outcomes", "Quality of life"]
 tags: ["cancer", collaboration, masters]
 doi: "10.1634/theoncologist.2015-0349"
-links:
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc4861358/
-    icon-pack: fas
-    icon: book-open
+pubmed: "27009936"
 projects: [cancer-pros]
 ---

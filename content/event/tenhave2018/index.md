@@ -42,14 +42,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Poster
-  url: https://slides.nickseewald.com/tenhave2018
-  icon_pack: fas
-  icon: chalkboard-teacher
+# links:
+# - name: Poster
+#   url: https://slides.nickseewald.com/
+#   icon_pack: fas
+#   icon: chalkboard-teacher
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_poster: tenhave2018.pdf
 
 url_code:
 url_pdf:

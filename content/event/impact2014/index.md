@@ -42,16 +42,16 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Poster
-  url: https://slides.nickseewald.com/SMARTsize-poster.pdf
-  icon_pack: fas
-  icon: chalkboard-teacher
+# links:
+# - name: Poster
+#   url: 
+#   icon_pack: fas
+#   icon: chalkboard-teacher
 
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
-
+url_poster: https://slides.nickseewald.com/SMARTsize-poster.pdf
 url_code:
 url_pdf:
 url_video:

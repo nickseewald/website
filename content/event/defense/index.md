@@ -53,17 +53,17 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: defense2021.pdf
 
 url_code:
 url_pdf:
 url_video:
 
 links:
-- name: Slides
-  url: https://slides.nickseewald.com/defense2021.pdf
-  icon_pack: fas
-  icon: person-chalkboard
+# - name: Slides
+#   url: https://slides.nickseewald.com/
+#   icon_pack: fas
+#   icon: person-chalkboard
 - name: Notation Cheat Sheet
   url: Notation_Cheat_Sheet.pdf
   icon_pack: fas

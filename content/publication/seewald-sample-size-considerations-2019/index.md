@@ -10,15 +10,19 @@ publication: "*Statistical Methods in Medical Research*"
 tags: ["SMARTs", "DTRs", "dissertation", "PhD"]
 projects: ["smart-longitudinal"]
 doi: "10/gf85ss"
+url_pdf: https://arxiv.org/pdf/1810.13094
+pubmed: "31571526"
 links:
   - name: Supplement
     url: https://osf.io/q7zv8/
-  - name: arXiv
-    url: https://arxiv.org/abs/1810.13094
-    icon_pack: ai
-    icon: arxiv
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7108977/
     icon_pack: fas
-    icon: book-open
+    icon: puzzle-piece
+  # - name: arXiv
+  #   url: https://arxiv.org/abs/1810.13094
+  #   icon_pack: ai
+  #   icon: arxiv
+  # - name: PubMed
+  #   url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7108977/
+  #   icon_pack: ai
+  #   icon: pubmed
 ---

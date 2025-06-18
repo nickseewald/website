@@ -43,13 +43,13 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-links:
-- name: Slides
-  url: https://slides.nickseewald.com/enar2021.pdf
-  icon_pack: fas
-  icon: person-chalkboard
+# links:
+# - name: Slides
+#   url: https://slides.nickseewald.com/
+#   icon_pack: fas
+#   icon: person-chalkboard
 
-url_slides: 
+url_slides: enar2021.pdf
 
 url_code:
 url_pdf:

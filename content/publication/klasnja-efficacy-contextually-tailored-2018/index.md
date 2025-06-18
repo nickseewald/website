@@ -18,10 +18,6 @@ featured: false
 publication: "*Annals of Behavioral Medicine*"
 doi: "10.1093/abm/kay067"
 tags: ["MRTs", "mHealth", "PhD"]
-links:
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6401341/
-    icon-pack: fas
-    icon: book-open
+pubmed: "30192907"
 projects: ["digital-health"]
 ---

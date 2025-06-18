@@ -59,18 +59,14 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Poster
-  url: https://slides.nickseewald.com/academyhealth2022.pdf
-  icon_pack: fas
-  icon: chalkboard-teacher
-- name: Supplementary Materials
-  url: https://slides.nickseewald.com/academyhealth2022-supplement.pdf
-  icon_pack: fas
-  icon: puzzle-piece
+  - name: Supplementary Materials
+    url: https://slides.nickseewald.com/academyhealth2022-supplement.pdf
+    icon_pack: fas
+    icon: puzzle-piece
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
-
+url_poster: academyhealth2022.pdf
 url_code:
 url_pdf:
 url_video:

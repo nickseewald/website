@@ -34,6 +34,7 @@ authors:
   - Erica L. Carpenter
 date: 2025-04-01T09:54:24-05:00
 doi: "pgbf"
+pubmed: "39887264"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-04-01T09:54:24-05:00
@@ -67,11 +68,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: PubMed
-  url: https://pubmed.ncbi.nlm.nih.gov/39887264/
-  icon_pack: fas
-  icon: book-open
+# links:
+# - name: PubMed
+#   url: https://pubmed.ncbi.nlm.nih.gov/39887264/
+#   icon_pack: ai
+#   icon: pubmed
 
 
 url_pdf:

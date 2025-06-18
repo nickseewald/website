@@ -8,11 +8,7 @@ abstract: "Discovery of clinical and genetic predictors of exemestane pharmacoki
 featured: false
 publication: "*The Pharmacogenomics Journal*"
 doi: "10.1038/tpj.2016.60"
+pubmed: "27549341"
 tags: ["cancer", collaboration, masters]
 projects: [cancer-biomarkers]
-links:
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5323433/
-    icon-pack: fas
-    icon: book-open
 ---

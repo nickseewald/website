@@ -8,5 +8,11 @@ abstract: "In the solid state, tris(3,5-di-tert-butylcatecholato)molybdenum(VI) 
 featured: false
 publication: "*Inorganic Chemistry*"
 doi: "10.1021/ic401736f"
+pubmed: "24147870"
 tags: ["chemistry"]
+# links:
+#     - name: PubMed
+#       url: https://pubmed.ncbi.nlm.nih.gov/24147870/
+#       icon_pack: ai
+#       icon: pubmed
 ---

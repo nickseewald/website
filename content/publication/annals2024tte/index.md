@@ -6,6 +6,7 @@ authors: [admin, Emma E. McGinty, Elizabeth A. Stuart]
 slug: "seewald-target-trial-emulation-health-policy"
 date: 2024-11-11T10:10:21-05:00
 doi: "10.7326/M23-2440"
+pubmed: "39374529"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-11-25T10:10:21-05:00
@@ -31,28 +32,11 @@ tags: [policy evaluation]
 categories: []
 featured: true
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
-
-links:
-  - name: PubMed
-    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11817613/
-    icon-pack: fas
-    icon: book-open
+#   - name: PubMed
+#     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11817613/
+#     icon-pack: ai
+#     icon: pubmed
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

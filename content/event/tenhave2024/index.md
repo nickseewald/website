@@ -40,14 +40,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Slides
-  url: https://slides.nickseewald.com/tenhave2024.pdf
-  icon_pack: fas
-  icon: person-chalkboard
+# links:
+# - name: Slides
+#   url: https://slides.nickseewald.com/tenhave2024.pdf
+#   icon_pack: fas
+#   icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: tenhave2024.pdf
 
 url_code:
 url_pdf:

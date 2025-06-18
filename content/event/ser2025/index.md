@@ -27,6 +27,7 @@ publishDate: 2025-06-11T10:23:12-04:00
 
 authors: [admin]
 tags: []
+categories: [invited talks]
 
 # Is this a featured event? (true/false)
 featured: false
@@ -41,16 +42,16 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Slides
-  url: https://slides.nickseewald.com/ser2025.pdf
-  icon_pack: fas
-  icon: person-chalkboard
+# links:
+# - name: Slides
+#   url: 
+#   icon_pack: fas
+#   icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: ser2025.pdf
 
-url_code:
+url_code: 
 url_pdf:
 url_video:
 
@@ -66,5 +67,8 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [multilevel-did]
 ---
+{{% callout note %}}
+My registration for SER 2025 was generously supported by a travel grant from the Society.
+{{% /callout %}}

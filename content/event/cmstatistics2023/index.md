@@ -41,17 +41,17 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Slides
-  url: https://slides.nickseewald.com/cmstatistics2023.pdf
-  icon_pack: fas
-  icon: person-chalkboard
+# - name: Slides
+#   url: https://slides.nickseewald.com/
+#   icon_pack: fas
+#   icon: person-chalkboard
 - name: Paper
   url: /publication/seewald-shared-control-individuals-2023/
   icon_pack: fas
   icon: book
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: 
+url_slides: cmstatistics2023.pdf
 
 url_code:
 url_pdf:

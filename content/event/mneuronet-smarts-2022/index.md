@@ -42,14 +42,14 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Slides
-  url: https://slides.nickseewald.com/talk-mneuronet-2022/index.html#1
-  icon_pack: fas
-  icon: person-chalkboard
+# links:
+# - name: Slides
+#   url: 
+#   icon_pack: fas
+#   icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: https://slides.nickseewald.com/talk-mneuronet-2022/index.html#1
 url_code:
 url_pdf:
 url_video:

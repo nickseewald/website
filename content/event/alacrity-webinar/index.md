@@ -41,22 +41,22 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Video
-  url: https://youtube.com/playlist?list=PLj4-nn-p-zv1o-cR9jiITTRfgkwmyqjoD
-  icon_pack: fab
-  icon: youtube
-- name: Slides
-  url: https://slides.nickseewald/com/alacrity-webinar
-  icon_pack: fas
-  icon: person-chalkboard
+# links:
+# - name: Video
+#   url: 
+#   icon_pack: fab
+#   icon: youtube
+# - name: Slides
+#   url: 
+#   icon_pack: fas
+#   icon: person-chalkboard
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: alacrity-webinar.pdf
 
 url_code:
 url_pdf: 
-url_video: 
+url_video: https://youtube.com/playlist?list=PLj4-nn-p-zv1o-cR9jiITTRfgkwmyqjoD
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

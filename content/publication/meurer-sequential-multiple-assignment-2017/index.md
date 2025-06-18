@@ -17,10 +17,11 @@ abstract: |
 featured: false
 publication: "*Journal of Stroke and Cerebrovascular Diseases*"
 doi: "10.1016/j.jstrokecerebrovasdis.2016.09.010"
+pubmed: "28089562"
 tags: ["SMARTs", "masters"]
-links:
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5362332/
-    icon-pack: fas
-    icon: book-open
+# links:
+#   - name: PubMed
+#     url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc5362332/
+#     icon-pack: ai
+#     icon: pubmed
 ---

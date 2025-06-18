@@ -12,10 +12,7 @@ abstract: "The micro-randomized trial (MRT) is a new experimental design which a
 featured: false
 publication: arXiv [stat.ME]
 tags: ["MRTs", "PhD"]
-links:
-  - name: arXiv
-    url: https://arxiv.org/abs/1609.00695
-    icon_pack: ai
-    icon: arxiv
+doi: "10.48550/arXiv.1609.00695"
+url_pdf: "https://arxiv.org/pdf/1609.00695"
 projects: ["digital-health"]
 ---

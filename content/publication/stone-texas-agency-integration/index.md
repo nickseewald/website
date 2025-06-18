@@ -13,6 +13,7 @@ authors:
   - Emma E. McGinty 
 date: 2024-08-01
 doi: "10.1007/s10597-024-01332-0"
+pubmed: "39090318"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-08-01
@@ -38,11 +39,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: PubMed
-  url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11703680/
-  icon_pack: fas
-  icon: book-open
+# links:
+# - name: PubMed
+#   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11703680/
+#   icon_pack: ai
+#   icon: pubmed
 
 url_pdf:
 url_code:

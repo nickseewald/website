@@ -9,15 +9,17 @@ abstract: |
 featured: false
 publication: "*Statistics in Biosciences*"
 doi: "10/gfsvx7"
+pubmed: "31462937"
 tags: ["MRTs", "mHealth", PhD]
-links:
-  - name: arXiv
-    url: https://arxiv.org/abs/1812.10800
-    icon_pack: ai
-    icon: arxiv
-  - name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6713230/
-    icon_pack: fas
-    icon: book-open
+url_pdf: https://arxiv.org/pdf/1812.10800
+# links:
+#   - name: arXiv
+#     url: https://arxiv.org/abs/1812.10800
+#     icon_pack: ai
+#     icon: arxiv
+  # - name: PubMed
+  #   url: http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6713230/
+  #   icon_pack: ai
+  #   icon: pubmed
 projects: ["digital-health"]
 ---

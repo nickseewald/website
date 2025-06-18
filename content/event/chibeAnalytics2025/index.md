@@ -8,6 +8,8 @@ location: "Virtual"
 summary: An invited virtual seminar for the University of Pennsylvania Health Policy / Center for Health Initiatives and Behavioral Economics analytics group.
 abstract:
 
+slug: chibeAnalytics2025
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2025-01-21T12:00:00-05:00
@@ -34,13 +36,13 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Slides
-  url: https://slides.nickseewald.com/chibeAnalytics2025.pdf
-  icon_pack: fas
-  icon: person-chalkboard
+# links:
+# - name: Slides
+#   url: https://slides.nickseewald.com/chibeAnalytics2025.pdf
+#   icon_pack: fas
+#   icon: person-chalkboard
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: chibeAnalytics2025.pdf
 
 url_code:
 url_pdf:

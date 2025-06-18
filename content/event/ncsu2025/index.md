@@ -43,17 +43,17 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Slides
-  url: https://slides.nickseewald.com/ncsu2025.pdf
-  icon_pack: fas
-  icon: person-chalkboard
+# - name: Slides
+#   url: 
+#   icon_pack: fas
+#   icon: person-chalkboard
 - name: Paper
-  url: https://doi.org/nmmw
+  url: /publication/seewald-policy-trial-emulation-2024
   icon_pack: fas
   icon: book
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: ncsu2025.pdf
 
 url_code:
 url_pdf:

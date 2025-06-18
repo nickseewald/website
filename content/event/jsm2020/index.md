@@ -43,25 +43,25 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Slides
-  url: https://slides.nickseewald.com/jsm2020.pdf
-  icon_pack: fas
-  icon: person-chalkboard
-- name: Video
-  url: https://youtu.be/226_F37zFzw
-  icon_pack: fab
-  icon: youtube
+# - name: Slides
+#   url: https://slides.nickseewald.com/jsm2020.pdf
+#   icon_pack: fas
+#   icon: person-chalkboard
+# - name: Video
+#   url: https://youtu.be/226_F37zFzw
+#   icon_pack: fab
+#   icon: youtube
 - name: Video Script
   url: JSM_2020_Script.pdf
   icon_pack: fas
   icon: scroll
 
 # Optional filename of your slides within your talk's folder or a URL.
-# url_slides: JSM_2020_Slides.pdf
+url_slides: jsm2020.pdf
 
 url_code:
 url_pdf:
-# url_video: https://youtu.be/226_F37zFzw
+url_video: https://youtu.be/226_F37zFzw
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

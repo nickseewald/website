@@ -43,17 +43,13 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-  - name: Slides
-    url: https://slides.nickseewald.com/acic2022.pdf
-    icon_pack: fas
-    icon: person-chalkboard
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: 
+url_slides: acic2022.pdf
 
 url_code:
 url_pdf:

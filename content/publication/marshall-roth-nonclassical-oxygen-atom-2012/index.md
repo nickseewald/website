@@ -9,4 +9,5 @@ featured: false
 publication: "*Chemical Communications*"
 doi: "10.1039/c2cc33523a"
 tags: ["chemistry", "undergraduate"]
+pubmed: "22785616"
 ---

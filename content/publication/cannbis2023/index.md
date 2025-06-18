@@ -13,6 +13,7 @@ authors:
   - Elizabeth A. Stuart
 date: 2023-07-01
 doi: "10.7326/M23-0053"
+pubmed: "37399549"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-12-01T13:23:59-05:00
@@ -59,11 +60,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: PubMed
-  url: https://pubmed.ncbi.nlm.nih.gov/37399549/
-  icon_pack: fas
-  icon: book-open
+# links:
+# - name: PubMed
+#   url: https://pubmed.ncbi.nlm.nih.gov/37399549/
+#   icon-pack: ai
+#   icon: pubmed
 
 url_pdf:
 url_code:
