@@ -1,7 +1,7 @@
 ---
 # Documentation: https://docs.hugoblox.com/managing-content/
 
-title: "LODESTAR: A Single Arm Phase II Study of Rucaparib in Solid Tumors with Pathogenic Germline or Somatic Variants in Homologous Recombination Repair Genes"
+title: "LODESTAR: A single arm phase II study of rucaparib in solid tumors with pathogenic germline or somatic variants in homologous recombination repair genes"
 authors: 
   - Sriram Anbil
   - admin
@@ -23,8 +23,8 @@ authors:
   - Katherine L. Nathanson
   - Susan M. Domchek
   - Kim A. Reiss
-date: 2025-05-19T08:42:46-04:00
-doi: ""
+date: 2025-07-09T00:00:00-04:00
+doi: "pv75"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-07-19T08:42:46-04:00
