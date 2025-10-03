@@ -1,6 +1,5 @@
 ---
-title: Shared Control Individuals in Health Policy Evaluations with Application to
-  Medical Cannabis Laws
+title: Shared Control Individuals in Health Policy Evaluations with Application to Medical Cannabis Laws
 
 # Authors
 # A YAML list of author names

@@ -25,6 +25,7 @@ authors:
   - Kim A. Reiss
 date: 2025-07-09T00:00:00-04:00
 doi: "pv75"
+pubmed: "40632975"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-07-19T08:42:46-04:00

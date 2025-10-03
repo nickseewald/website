@@ -41,12 +41,8 @@ url_video: ""
 slides: ""
 ---
 
-Liquid biopsy uses non-solid biological tissue (e.g., blood) for prognosis and
-monitoring of various conditions, including cancer. In this series of
-collaborations with [Erica L. Carpenter, MBA,
-PhD](https://www.med.upenn.edu/apps/faculty/index.php/g275/p4879423), we
-investigate various biomarkers -- including and especially circulating tumor
-cells and cell-free DNA -- for their capacity to provide early detection of
-disease or ability to improve prognosis. I provide statistical expertise 
+Biomarkers are an important tool in cancer detection, treatment, and prognosis. In these collaborations, I provide statistical expertise related to the design of experiments and the analysis of data from both prospective and retrospective studies. I highlight two particular projects of interest below.
 
-  A collaboration with [Erica L. Carpenter, MBA, PhD](https://www.med.upenn.edu/apps/faculty/index.php/g275/p4879) investigating the use of blood-based biomarkers for cancer prognosis.
+In collaborative projects with [Erica L. Carpenter, MBA, PhD](https://www.med.upenn.edu/apps/faculty/index.php/g275/p4879423), we investigate the use of non-solid biological tissue ("liquid biopsy") -- including and especially circulating tumor cells and cell-free DNA -- for its capacity to provide early detection of disease or to estimate prognosis, with the aim of developing druggable targets to improve survival. 
+
+Additional collaborations with [Angela M. DeMichele, MD, MSCE](https://www.med.upenn.edu/apps/faculty/index.php/g275/p10882) aim to develop and validate novel assays for dormant tumor cells (DTCs) in breast cancer patients, which are believed to be a primary vector of cancer recurrence. 

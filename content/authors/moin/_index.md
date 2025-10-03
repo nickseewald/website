@@ -12,7 +12,7 @@ superuser: false
 underline_name: true
 
 # Role/position
-role: Masters of Science in Clinical Epidemiology Student
+role: Masters of Science in Clinical Epidemiology Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- MSCE Students
+- Alumni
 ---
 
 Emily E. Moin, MD, MBE is a fellow in the Division of Pulmonary and Critical Care Medicine at the Hospital of the University of Pennsylvania and second-year MSCE student. 

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: "Eleanor Taranto"
+title: "Hao Tong"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "taranto"
+- "tong"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Masters of Science in Clinical Epidemiology Graduate
+role: Masters of Science in Clinical Epidemiology Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor of Medicine (Hematology-Oncology) at the Hospital of the University of Pennsylvania
+bio: Fellow in the Division of Pulmonary and Critical Care at the Hospital of the University of Pennsylvania
 
 # List each interest with a dash
 # interests:
@@ -39,9 +39,9 @@ bio: Assistant Professor of Medicine (Hematology-Oncology) at the Hospital of th
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-0299-2176
+# - icon: orcid
+#   icon_pack: ai
+#   link: https://orcid.org/0000-0002-0299-2176
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/USERNAME
@@ -67,7 +67,7 @@ underline_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- MSCE Students
 ---
 
-Nora Taranto worked with Nick as a trainee in Penn's Master of Science in Clinical Epidemiology program. Nora is now an Assistant Professor of Medicine (Hematology-Oncology) at the Hospital of the University of Pennsylvania.
+Hao Tong, MD is a Pulmonary and Critical Care Fellow at the Hospital of the University of Pennsylvania and first-year MSCE student.
