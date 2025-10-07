@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=DM+Serif+Display:ital@0;1&family=Permanent+Marker&family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=DM+Serif+Display:ital@0;1&family=Permanent+Marker&family=Rock+Salt&display=swap');
 
 // @font-face {
 //     font-family: "Nick Font";
@@ -76,18 +76,24 @@
 }
 
 .navbar-brand {
-    font-family: "Rock Salt", cursive;
+    font-family: "IBM Plex Mono", sans-serif;
     // font-family: "Nick Font";
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
 }
 
 h1:not(.article-container > h1) {
-    font-family: "Rock Salt", cursive;
+    font-family: "IBM Plex Mono", monospace;
     // font-family: "Nick Font";
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
-    font-size-adjust: .9;
+    font-size-adjust: .8;
+    line-height: 135%;
+    padding-bottom: 2%;
+}
+
+.hero-title {
+    margin-bottom: -1rem;
 }
 
 .article-container h1 {
