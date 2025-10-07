@@ -4,7 +4,8 @@
 title: "The Impact of Medicaid Expansion on HIV Pre-Exposure Prophylaxis Coverage"
 authors: [Elizabeth M. Stone, admin, Joseph G. Rosen]
 date: 2025-10-06
-doi: ""
+doi: "p8nj"
+pubmed: "41052386"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-10-06T17:00:00-04:00
@@ -13,20 +14,21 @@ publishDate: 2025-10-06T17:00:00-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Health Affairs*"
 publication_short: "*Health Aff*"
 
-abstract: ""
+abstract: |
+  Although its availability has grown during the past decade, pre-exposure prophylaxis (PrEP) remains underused in the US. We evaluated the impact of Medicaid expansion on state-level PrEP prescribing outcomes, using HIV surveillance data from all fifty states and Washington, D.C., from the period 2012–23, using a staggered diffeence-in-differences approach. PrEP coverage (prescriptions per 100,000 population) increased over time but was not statistically significantly associated with Medicaid expansion. There were, however, significant increases in the PrEP-to-need ratio (4.44 PrEP prescriptions per new HIV diagnosis) that were attributable to Medicaid expansion, with the strength of effects increasing over time. Medicaid expansion was associated with significant increases in PrEP-to-need ratios across all subgroups. Although Medicaid expansion effectively increased PrEP access relative to HIV diagnoses, differential impacts by race and ethnicity may suggest widening racial and ethnic disparities.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: [policy evaluation]
-categories: []
-featured: false
+categories: [collaborations]
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
