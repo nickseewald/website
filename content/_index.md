@@ -162,15 +162,15 @@ sections:
           captcha: true
       email: 'See my CV or use the form.'
       address:
-        street: 624 Blockley Hall, 423 Guardian Drive
+        street: 3600 Civic Center Drive, Room 3W-103
         city: Philadelphia
         region: PA
         postcode: "19104"
         country: United States
         country_code: 1
       coordinates:
-        latitude: "39.94862488310947"
-        longitude: "-75.19739135929261"
+        latitude: "39.94611862746245" 
+        longitude: "-75.19669922542555"
     design:
       columns: "1"
 ---
