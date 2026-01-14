@@ -32,6 +32,7 @@ sections:
       background:
         image:
             filename: banner.jpg
+            parallax: true
             filters:
                 brightness: .45
             size: cover
@@ -119,7 +120,7 @@ sections:
 
   - block: markdown
     content:
-      title: My Commitment to Diversity, Equity, and Inclusion
+      title: Equity and Inclusion
       text: |-
         I am firmly committed to efforts to increase the diversity of Statistics as a field. We as statisticians benefit from and value the tremendous *intellectual* diversity in our field, but we must do more to improve the representation of minoritized racial and gender identities among our ranks. I strive to foster a more welcoming, inclusive culture in Statistics which supports and centers the contributions of Black, Indigenous, and Latino/a statisticians.
 

@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=DM+Serif+Display:ital@0;1&family=Permanent+Marker&family=Rock+Salt&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Staatliches&display=swap');
+
 // @font-face {
 //     font-family: "Nick Font";
 //     src: url('/fonts/Nickfont2-Regular.otf');
@@ -76,24 +78,34 @@
 }
 
 .navbar-brand {
-    font-family: "IBM Plex Mono", sans-serif;
+    // font-family: "IBM Plex Mono", sans-serif;
+    font-family: "Staatliches";
     // font-family: "Nick Font";
     font-weight: 700;
     font-style: normal;
 }
 
 h1:not(.article-container > h1) {
-    font-family: "IBM Plex Mono", monospace;
+    // font-family: "Boldonse", monospace;
+    font-family: "Staatliches";
     // font-family: "Nick Font";
-    font-weight: 700;
-    font-style: normal;
-    font-size-adjust: .8;
+    // font-weight: 700;
+    // font-style: bold;
+    font-size-adjust: .9;
     line-height: 135%;
     padding-bottom: 2%;
 }
 
 .hero-title {
     margin-bottom: -1rem;
+}
+
+.cta-btns a {
+    font-family: "Staatliches";
+}
+
+.cta-btns i {
+    margin-right: .15em;
 }
 
 .article-container h1 {
