@@ -3,7 +3,6 @@
 
 title: "Target Trial Emulation for Evaluating Health Policy"
 authors: [admin, Emma E. McGinty, Elizabeth A. Stuart]
-slug: "seewald-target-trial-emulation-health-policy"
 date: 2024-11-11T10:10:21-05:00
 doi: "10.7326/M23-2440"
 pubmed: "39374529"
